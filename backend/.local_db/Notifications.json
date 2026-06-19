@@ -1,0 +1,2261 @@
+{
+  "v7z5k9xb7lo": {
+    "id": "v7z5k9xb7lo",
+    "userId": "4gnkp8v6z6g",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Alexander Fleming on 2026-06-25 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:08:38.180Z"
+  },
+  "c2rqi6t2kwe": {
+    "id": "c2rqi6t2kwe",
+    "userId": "7mf7ncm7ku5",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Alexander Fleming on 2026-06-25 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:09:32.906Z"
+  },
+  "z4cbx7llvgf": {
+    "id": "z4cbx7llvgf",
+    "userId": "z2fhf39ea",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Alexander Fleming on 2026-06-25 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:19:24.022Z"
+  },
+  "1cv05yp20uf": {
+    "id": "1cv05yp20uf",
+    "userId": "ij65tfowlyj",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 2 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:29:22.921Z"
+  },
+  "eibo2216mp": {
+    "id": "eibo2216mp",
+    "userId": "ij65tfowlyj",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 3 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:29:36.478Z"
+  },
+  "9q81ecas7h": {
+    "id": "9q81ecas7h",
+    "userId": "ij65tfowlyj",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 4 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:29:51.221Z"
+  },
+  "xm0qohgg0jg": {
+    "id": "xm0qohgg0jg",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 126 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:00.230Z"
+  },
+  "694p1rcaey": {
+    "id": "694p1rcaey",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 127 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:01.686Z"
+  },
+  "fjjongedfyd": {
+    "id": "fjjongedfyd",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 128 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:03.056Z"
+  },
+  "924w97l2uqb": {
+    "id": "924w97l2uqb",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 129 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:04.724Z"
+  },
+  "n1w2sbojzjl": {
+    "id": "n1w2sbojzjl",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 130 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:06.208Z"
+  },
+  "7lg3jrukcd5": {
+    "id": "7lg3jrukcd5",
+    "userId": "ij65tfowlyj",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 5 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:06.211Z"
+  },
+  "5u0mbi5a8yw": {
+    "id": "5u0mbi5a8yw",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 131 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:07.679Z"
+  },
+  "50xld4td703": {
+    "id": "50xld4td703",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 132 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:09.123Z"
+  },
+  "mk556mxqhro": {
+    "id": "mk556mxqhro",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 133 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:10.507Z"
+  },
+  "8i8khqstgq": {
+    "id": "8i8khqstgq",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 134 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:12.252Z"
+  },
+  "gqwn2xbttb8": {
+    "id": "gqwn2xbttb8",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 135 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:13.769Z"
+  },
+  "gi4g68qtmot": {
+    "id": "gi4g68qtmot",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 136 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:15.378Z"
+  },
+  "9k1p4l2be06": {
+    "id": "9k1p4l2be06",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 137 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:17.218Z"
+  },
+  "21njd6rwpzw": {
+    "id": "21njd6rwpzw",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 138 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:18.969Z"
+  },
+  "k93g9gdvcpd": {
+    "id": "k93g9gdvcpd",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 139 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:20.862Z"
+  },
+  "ymjeuvk291p": {
+    "id": "ymjeuvk291p",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 140 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:22.733Z"
+  },
+  "vrdau65o1t": {
+    "id": "vrdau65o1t",
+    "userId": "ij65tfowlyj",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 6 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:22.738Z"
+  },
+  "dv8om97ed26": {
+    "id": "dv8om97ed26",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 141 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:24.326Z"
+  },
+  "swib1i0fw7p": {
+    "id": "swib1i0fw7p",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 142 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:26.133Z"
+  },
+  "bqabhvy0sww": {
+    "id": "bqabhvy0sww",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 143 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:27.810Z"
+  },
+  "k0khgk9peu": {
+    "id": "k0khgk9peu",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 144 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:29.457Z"
+  },
+  "sqyo7xcr68a": {
+    "id": "sqyo7xcr68a",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 145 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:31.191Z"
+  },
+  "y19py1xx4tk": {
+    "id": "y19py1xx4tk",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 146 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:32.900Z"
+  },
+  "2dvbhmnpcg6": {
+    "id": "2dvbhmnpcg6",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 147 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:34.809Z"
+  },
+  "4iynzvoi958": {
+    "id": "4iynzvoi958",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 148 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:36.473Z"
+  },
+  "2swlrre1ffx": {
+    "id": "2swlrre1ffx",
+    "userId": "ij65tfowlyj",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 149 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:38.235Z"
+  },
+  "a78ib8al69w": {
+    "id": "a78ib8al69w",
+    "userId": "ij65tfowlyj",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 7 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:39.351Z"
+  },
+  "33ph7024czy": {
+    "id": "33ph7024czy",
+    "userId": "ij65tfowlyj",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 8 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:43.666Z"
+  },
+  "pfym9qankbh": {
+    "id": "pfym9qankbh",
+    "userId": "ij65tfowlyj",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 9 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:47.783Z"
+  },
+  "s5xj6bt6bg": {
+    "id": "s5xj6bt6bg",
+    "userId": "ij65tfowlyj",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 10 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:52.354Z"
+  },
+  "mkbeocpt0cq": {
+    "id": "mkbeocpt0cq",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 1 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:57.014Z"
+  },
+  "q1hf2kpzqc": {
+    "id": "q1hf2kpzqc",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 2 on 2026-06-02 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:58.199Z"
+  },
+  "i1zih6sip1s": {
+    "id": "i1zih6sip1s",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 3 on 2026-06-03 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:30:59.453Z"
+  },
+  "jxwmagp7wz": {
+    "id": "jxwmagp7wz",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 4 on 2026-06-04 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:00.828Z"
+  },
+  "vhncb19aowf": {
+    "id": "vhncb19aowf",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 5 on 2026-06-05 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:02.273Z"
+  },
+  "8n42ye7lfky": {
+    "id": "8n42ye7lfky",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 6 on 2026-06-06 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:03.553Z"
+  },
+  "e9ufvqdouap": {
+    "id": "e9ufvqdouap",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 7 on 2026-06-07 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:04.689Z"
+  },
+  "xagb1izi1d": {
+    "id": "xagb1izi1d",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 8 on 2026-06-08 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:05.895Z"
+  },
+  "h1mqg404zce": {
+    "id": "h1mqg404zce",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 9 on 2026-06-09 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:07.149Z"
+  },
+  "q7k105djlp": {
+    "id": "q7k105djlp",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 10 on 2026-06-10 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:08.273Z"
+  },
+  "1we530z7c4v": {
+    "id": "1we530z7c4v",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 11 on 2026-06-11 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:09.700Z"
+  },
+  "89q2us0m7pn": {
+    "id": "89q2us0m7pn",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 12 on 2026-06-12 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:10.758Z"
+  },
+  "624r8i8yayq": {
+    "id": "624r8i8yayq",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 13 on 2026-06-13 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:11.898Z"
+  },
+  "6rd1dn3sgr6": {
+    "id": "6rd1dn3sgr6",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 14 on 2026-06-14 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:13.011Z"
+  },
+  "xc2iz1o2dp": {
+    "id": "xc2iz1o2dp",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 15 on 2026-06-15 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:14.186Z"
+  },
+  "1gstxqt1vet": {
+    "id": "1gstxqt1vet",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 16 on 2026-06-16 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:16.662Z"
+  },
+  "shwiiqvwvd": {
+    "id": "shwiiqvwvd",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 17 on 2026-06-17 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:23.274Z"
+  },
+  "0afykxpf9iwu": {
+    "id": "0afykxpf9iwu",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 18 on 2026-06-18 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:24.720Z"
+  },
+  "z1m3bftxcs": {
+    "id": "z1m3bftxcs",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 19 on 2026-06-19 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:25.923Z"
+  },
+  "0a23og52ovh4": {
+    "id": "0a23og52ovh4",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 20 on 2026-06-20 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:27.533Z"
+  },
+  "diescyyufrl": {
+    "id": "diescyyufrl",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 21 on 2026-06-21 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:28.750Z"
+  },
+  "p5lcn9ze5yl": {
+    "id": "p5lcn9ze5yl",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 22 on 2026-06-22 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:29.945Z"
+  },
+  "9qvnkksjaes": {
+    "id": "9qvnkksjaes",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 23 on 2026-06-23 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:31.377Z"
+  },
+  "w6c81h8oz5f": {
+    "id": "w6c81h8oz5f",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 24 on 2026-06-24 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:32.815Z"
+  },
+  "atar7enmq5j": {
+    "id": "atar7enmq5j",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 25 on 2026-06-25 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:34.194Z"
+  },
+  "5b3wz4bijkh": {
+    "id": "5b3wz4bijkh",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 26 on 2026-06-26 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:35.493Z"
+  },
+  "p28nieslujq": {
+    "id": "p28nieslujq",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 27 on 2026-06-27 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:36.904Z"
+  },
+  "e0l18xv2mrs": {
+    "id": "e0l18xv2mrs",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 28 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:38.315Z"
+  },
+  "85zndkzr8ys": {
+    "id": "85zndkzr8ys",
+    "userId": "ij65tfowlyj",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 29 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:31:39.687Z"
+  },
+  "2su2s77uvcc": {
+    "id": "2su2s77uvcc",
+    "userId": "8pwkvjbvjej",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 2 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:33:47.799Z"
+  },
+  "l1wqh5u72pd": {
+    "id": "l1wqh5u72pd",
+    "userId": "8pwkvjbvjej",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 3 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:01.380Z"
+  },
+  "iq5zvn5u5i": {
+    "id": "iq5zvn5u5i",
+    "userId": "8pwkvjbvjej",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 4 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:15.778Z"
+  },
+  "0nbbls4j9m2p": {
+    "id": "0nbbls4j9m2p",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 126 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:24.869Z"
+  },
+  "615yqs0b1gk": {
+    "id": "615yqs0b1gk",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 127 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:26.330Z"
+  },
+  "gailwy24t78": {
+    "id": "gailwy24t78",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 128 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:27.937Z"
+  },
+  "5d67whtyst5": {
+    "id": "5d67whtyst5",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 129 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:29.501Z"
+  },
+  "1esp3kxw7lw": {
+    "id": "1esp3kxw7lw",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 130 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:30.982Z"
+  },
+  "96mlcw6fm2": {
+    "id": "96mlcw6fm2",
+    "userId": "8pwkvjbvjej",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 5 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:30.987Z"
+  },
+  "68hwuwfq03c": {
+    "id": "68hwuwfq03c",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 131 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:32.523Z"
+  },
+  "b9hly84bxlv": {
+    "id": "b9hly84bxlv",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 132 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:33.972Z"
+  },
+  "kwdbpnv0oqe": {
+    "id": "kwdbpnv0oqe",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 133 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:35.633Z"
+  },
+  "voxhati3wsi": {
+    "id": "voxhati3wsi",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 134 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:37.301Z"
+  },
+  "sxqk9ldwga": {
+    "id": "sxqk9ldwga",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 135 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:38.879Z"
+  },
+  "63l0i7fnmke": {
+    "id": "63l0i7fnmke",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 136 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:40.431Z"
+  },
+  "vzkaumtcsp": {
+    "id": "vzkaumtcsp",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 137 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:42.054Z"
+  },
+  "nyfzshx7z1g": {
+    "id": "nyfzshx7z1g",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 138 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:43.631Z"
+  },
+  "hduhvznpjos": {
+    "id": "hduhvznpjos",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 139 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:45.305Z"
+  },
+  "n8qaboxsiji": {
+    "id": "n8qaboxsiji",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 140 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:47.289Z"
+  },
+  "vzrkqnesz9a": {
+    "id": "vzrkqnesz9a",
+    "userId": "8pwkvjbvjej",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 6 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:47.295Z"
+  },
+  "tetbid1bl8j": {
+    "id": "tetbid1bl8j",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 141 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:48.744Z"
+  },
+  "49b4xu0umsu": {
+    "id": "49b4xu0umsu",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 142 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:50.503Z"
+  },
+  "gx7iu6nz7x": {
+    "id": "gx7iu6nz7x",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 143 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:52.435Z"
+  },
+  "n0o4b4udgeb": {
+    "id": "n0o4b4udgeb",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 144 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:53.897Z"
+  },
+  "z9qu4aveqgj": {
+    "id": "z9qu4aveqgj",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 145 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:55.634Z"
+  },
+  "4yxblzzu0ed": {
+    "id": "4yxblzzu0ed",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 146 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:57.636Z"
+  },
+  "oga44eug3m": {
+    "id": "oga44eug3m",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 147 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:34:59.353Z"
+  },
+  "u2y4kwc0cfo": {
+    "id": "u2y4kwc0cfo",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 148 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:01.025Z"
+  },
+  "9545jxa6ssq": {
+    "id": "9545jxa6ssq",
+    "userId": "8pwkvjbvjej",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 149 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:02.700Z"
+  },
+  "ibk5ui3kgiq": {
+    "id": "ibk5ui3kgiq",
+    "userId": "8pwkvjbvjej",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 7 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:03.814Z"
+  },
+  "dps7aupq6gj": {
+    "id": "dps7aupq6gj",
+    "userId": "8pwkvjbvjej",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 8 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:08.304Z"
+  },
+  "9uxkjlp95tw": {
+    "id": "9uxkjlp95tw",
+    "userId": "8pwkvjbvjej",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 9 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:12.531Z"
+  },
+  "3uzi7h8g1qa": {
+    "id": "3uzi7h8g1qa",
+    "userId": "8pwkvjbvjej",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 10 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:17.003Z"
+  },
+  "2kvqczrykvf": {
+    "id": "2kvqczrykvf",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 1 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:21.469Z"
+  },
+  "dgmas0h6odd": {
+    "id": "dgmas0h6odd",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 2 on 2026-06-02 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:22.652Z"
+  },
+  "tp74l3tm4kb": {
+    "id": "tp74l3tm4kb",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 3 on 2026-06-03 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:23.912Z"
+  },
+  "f0kxnzvxwlw": {
+    "id": "f0kxnzvxwlw",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 4 on 2026-06-04 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:24.872Z"
+  },
+  "xzeulqzm1nl": {
+    "id": "xzeulqzm1nl",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 5 on 2026-06-05 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:26.189Z"
+  },
+  "icqgc32b2da": {
+    "id": "icqgc32b2da",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 6 on 2026-06-06 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:27.281Z"
+  },
+  "l9zpvzdms39": {
+    "id": "l9zpvzdms39",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 7 on 2026-06-07 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:28.805Z"
+  },
+  "o3r3a1lz0bn": {
+    "id": "o3r3a1lz0bn",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 8 on 2026-06-08 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:30.319Z"
+  },
+  "2yba55wibi": {
+    "id": "2yba55wibi",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 9 on 2026-06-09 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:31.570Z"
+  },
+  "9octbue3c2": {
+    "id": "9octbue3c2",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 10 on 2026-06-10 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:32.607Z"
+  },
+  "4z4yew1dtw4": {
+    "id": "4z4yew1dtw4",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 11 on 2026-06-11 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:33.781Z"
+  },
+  "0mqd340usdzf": {
+    "id": "0mqd340usdzf",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 12 on 2026-06-12 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:35.106Z"
+  },
+  "c5pg4tr2y4g": {
+    "id": "c5pg4tr2y4g",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 13 on 2026-06-13 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:36.201Z"
+  },
+  "rgtv16ydwro": {
+    "id": "rgtv16ydwro",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 14 on 2026-06-14 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:37.578Z"
+  },
+  "o99fn5k8o7g": {
+    "id": "o99fn5k8o7g",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 15 on 2026-06-15 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:38.803Z"
+  },
+  "eoufdk0ydst": {
+    "id": "eoufdk0ydst",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 16 on 2026-06-16 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:39.966Z"
+  },
+  "lnpv7e7nr9": {
+    "id": "lnpv7e7nr9",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 17 on 2026-06-17 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:41.299Z"
+  },
+  "3z5misfyhkr": {
+    "id": "3z5misfyhkr",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 18 on 2026-06-18 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:43.234Z"
+  },
+  "4qxsp510mot": {
+    "id": "4qxsp510mot",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 19 on 2026-06-19 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:50.476Z"
+  },
+  "16ao6pic50k": {
+    "id": "16ao6pic50k",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 20 on 2026-06-20 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:56.543Z"
+  },
+  "pe1fgefk42": {
+    "id": "pe1fgefk42",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 21 on 2026-06-21 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:58.011Z"
+  },
+  "ulokbavu90c": {
+    "id": "ulokbavu90c",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 22 on 2026-06-22 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:35:59.549Z"
+  },
+  "1kquc8sihs9": {
+    "id": "1kquc8sihs9",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 23 on 2026-06-23 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:36:01.094Z"
+  },
+  "lg4amvjx8zr": {
+    "id": "lg4amvjx8zr",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 24 on 2026-06-24 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:36:02.385Z"
+  },
+  "1ojbrvh86om": {
+    "id": "1ojbrvh86om",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 25 on 2026-06-25 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:36:03.927Z"
+  },
+  "7ljw8p26709": {
+    "id": "7ljw8p26709",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 26 on 2026-06-26 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:36:05.619Z"
+  },
+  "sorx3j4jzr": {
+    "id": "sorx3j4jzr",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 27 on 2026-06-27 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:36:06.936Z"
+  },
+  "aku60aqy0p6": {
+    "id": "aku60aqy0p6",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 28 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:36:08.583Z"
+  },
+  "ad7f2trb2pa": {
+    "id": "ad7f2trb2pa",
+    "userId": "8pwkvjbvjej",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 29 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:36:10.117Z"
+  },
+  "5gki3o2c7v3": {
+    "id": "5gki3o2c7v3",
+    "userId": "jpqt9na6hdb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 2 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:39:47.557Z"
+  },
+  "ipg8eo4lsld": {
+    "id": "ipg8eo4lsld",
+    "userId": "jpqt9na6hdb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 3 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:00.836Z"
+  },
+  "roe2griqioa": {
+    "id": "roe2griqioa",
+    "userId": "jpqt9na6hdb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 4 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:15.198Z"
+  },
+  "6l6mho5b1xv": {
+    "id": "6l6mho5b1xv",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 126 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:23.915Z"
+  },
+  "i71iqjpxk2": {
+    "id": "i71iqjpxk2",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 127 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:25.399Z"
+  },
+  "deqgo0l6ro9": {
+    "id": "deqgo0l6ro9",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 128 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:26.921Z"
+  },
+  "0otf7phrdvdo": {
+    "id": "0otf7phrdvdo",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 129 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:28.430Z"
+  },
+  "0jmdbeg0rfgo": {
+    "id": "0jmdbeg0rfgo",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 130 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:30.014Z"
+  },
+  "zhx550ke1fi": {
+    "id": "zhx550ke1fi",
+    "userId": "jpqt9na6hdb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 5 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:30.020Z"
+  },
+  "y71rr2a7wk": {
+    "id": "y71rr2a7wk",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 131 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:31.381Z"
+  },
+  "d55gyvtg83g": {
+    "id": "d55gyvtg83g",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 132 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:33.007Z"
+  },
+  "h3tfsnkrsdm": {
+    "id": "h3tfsnkrsdm",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 133 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:34.619Z"
+  },
+  "ckzkzfu4e8w": {
+    "id": "ckzkzfu4e8w",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 134 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:36.287Z"
+  },
+  "njwe2yuige": {
+    "id": "njwe2yuige",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 135 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:37.970Z"
+  },
+  "03pwbd76j2p2": {
+    "id": "03pwbd76j2p2",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 136 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:39.849Z"
+  },
+  "6lxxlw6t97q": {
+    "id": "6lxxlw6t97q",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 137 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:41.553Z"
+  },
+  "wbhr3z9dv77": {
+    "id": "wbhr3z9dv77",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 138 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:43.372Z"
+  },
+  "gs9mf1dbg5": {
+    "id": "gs9mf1dbg5",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 139 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:44.918Z"
+  },
+  "i6iw6rslo2": {
+    "id": "i6iw6rslo2",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 140 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:46.614Z"
+  },
+  "06efzzf3h33r": {
+    "id": "06efzzf3h33r",
+    "userId": "jpqt9na6hdb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 6 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:46.622Z"
+  },
+  "9i41mhxm77w": {
+    "id": "9i41mhxm77w",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 141 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:48.120Z"
+  },
+  "ta3erc0lyic": {
+    "id": "ta3erc0lyic",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 142 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:49.793Z"
+  },
+  "to0lruraqu9": {
+    "id": "to0lruraqu9",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 143 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:51.490Z"
+  },
+  "f4g354gp346": {
+    "id": "f4g354gp346",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 144 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:53.243Z"
+  },
+  "9e022tm011r": {
+    "id": "9e022tm011r",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 145 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:55.104Z"
+  },
+  "mdim41kgvz8": {
+    "id": "mdim41kgvz8",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 146 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:56.964Z"
+  },
+  "k2ehju0fyv": {
+    "id": "k2ehju0fyv",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 147 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:40:58.805Z"
+  },
+  "jg60jp99ec": {
+    "id": "jg60jp99ec",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 148 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:00.598Z"
+  },
+  "g11re5t72q9": {
+    "id": "g11re5t72q9",
+    "userId": "jpqt9na6hdb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 149 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:02.461Z"
+  },
+  "4jxgmde5ej3": {
+    "id": "4jxgmde5ej3",
+    "userId": "jpqt9na6hdb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 7 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:03.531Z"
+  },
+  "s16yb5rp8u": {
+    "id": "s16yb5rp8u",
+    "userId": "jpqt9na6hdb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 8 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:07.976Z"
+  },
+  "o1uti7qqhp": {
+    "id": "o1uti7qqhp",
+    "userId": "jpqt9na6hdb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 9 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:12.094Z"
+  },
+  "qerdx7gm1d": {
+    "id": "qerdx7gm1d",
+    "userId": "jpqt9na6hdb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 10 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:16.612Z"
+  },
+  "32oaz0rcooo": {
+    "id": "32oaz0rcooo",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 1 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:20.997Z"
+  },
+  "rxfxq83c43g": {
+    "id": "rxfxq83c43g",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 2 on 2026-06-02 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:22.261Z"
+  },
+  "ydcxh0nxuik": {
+    "id": "ydcxh0nxuik",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 3 on 2026-06-03 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:23.283Z"
+  },
+  "9rs8zvcz9rg": {
+    "id": "9rs8zvcz9rg",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 4 on 2026-06-04 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:24.664Z"
+  },
+  "8yq5gfts5rs": {
+    "id": "8yq5gfts5rs",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 5 on 2026-06-05 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:26.029Z"
+  },
+  "55vevfd9177": {
+    "id": "55vevfd9177",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 6 on 2026-06-06 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:27.309Z"
+  },
+  "9g1cdpie8wk": {
+    "id": "9g1cdpie8wk",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 7 on 2026-06-07 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:28.544Z"
+  },
+  "a07yoaxdg8": {
+    "id": "a07yoaxdg8",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 8 on 2026-06-08 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:29.594Z"
+  },
+  "vgn0s0r7j6": {
+    "id": "vgn0s0r7j6",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 9 on 2026-06-09 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:30.540Z"
+  },
+  "kjryp6jiwms": {
+    "id": "kjryp6jiwms",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 10 on 2026-06-10 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:31.772Z"
+  },
+  "a6leucpmnw7": {
+    "id": "a6leucpmnw7",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 11 on 2026-06-11 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:32.871Z"
+  },
+  "n3n9s731n9": {
+    "id": "n3n9s731n9",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 12 on 2026-06-12 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:34.042Z"
+  },
+  "no4im3w1zn": {
+    "id": "no4im3w1zn",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 13 on 2026-06-13 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:35.467Z"
+  },
+  "bra8c5hd6se": {
+    "id": "bra8c5hd6se",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 14 on 2026-06-14 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:36.704Z"
+  },
+  "g6jwncz5ail": {
+    "id": "g6jwncz5ail",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 15 on 2026-06-15 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:38.111Z"
+  },
+  "8f5f9ka6nfv": {
+    "id": "8f5f9ka6nfv",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 16 on 2026-06-16 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:39.634Z"
+  },
+  "hbnf3a1va1m": {
+    "id": "hbnf3a1va1m",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 17 on 2026-06-17 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:41.037Z"
+  },
+  "4cajna3pfsb": {
+    "id": "4cajna3pfsb",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 18 on 2026-06-18 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:42.583Z"
+  },
+  "9ayukto09bt": {
+    "id": "9ayukto09bt",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 19 on 2026-06-19 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:43.980Z"
+  },
+  "r79zwtah96": {
+    "id": "r79zwtah96",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 20 on 2026-06-20 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:45.361Z"
+  },
+  "jdj1zsseluj": {
+    "id": "jdj1zsseluj",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 21 on 2026-06-21 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:46.634Z"
+  },
+  "dfv1td96pvf": {
+    "id": "dfv1td96pvf",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 22 on 2026-06-22 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:48.242Z"
+  },
+  "t5ut8iyuqh": {
+    "id": "t5ut8iyuqh",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 23 on 2026-06-23 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:49.751Z"
+  },
+  "cgn5a734kc": {
+    "id": "cgn5a734kc",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 24 on 2026-06-24 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:51.319Z"
+  },
+  "zwak24v3rj": {
+    "id": "zwak24v3rj",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 25 on 2026-06-25 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:53.025Z"
+  },
+  "t2jfdzlwkp": {
+    "id": "t2jfdzlwkp",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 26 on 2026-06-26 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:54.604Z"
+  },
+  "qp6o5sfw3z": {
+    "id": "qp6o5sfw3z",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 27 on 2026-06-27 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:56.156Z"
+  },
+  "vinqs4yfvy": {
+    "id": "vinqs4yfvy",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 28 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:57.871Z"
+  },
+  "yfy84gehxco": {
+    "id": "yfy84gehxco",
+    "userId": "jpqt9na6hdb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 29 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:41:59.321Z"
+  },
+  "p7ehto7cajt": {
+    "id": "p7ehto7cajt",
+    "userId": "cdntat0ijpb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 2 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:44:39.496Z"
+  },
+  "ahqhme3q2i": {
+    "id": "ahqhme3q2i",
+    "userId": "cdntat0ijpb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 3 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:44:52.825Z"
+  },
+  "t7kqsx63b3": {
+    "id": "t7kqsx63b3",
+    "userId": "cdntat0ijpb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 4 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:07.976Z"
+  },
+  "2nc5jfvv3f7": {
+    "id": "2nc5jfvv3f7",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 126 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:18.083Z"
+  },
+  "kdxl8fq25ak": {
+    "id": "kdxl8fq25ak",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 127 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:19.817Z"
+  },
+  "w7tehkpkynr": {
+    "id": "w7tehkpkynr",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 128 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:21.464Z"
+  },
+  "fupe6p1zglg": {
+    "id": "fupe6p1zglg",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 129 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:22.984Z"
+  },
+  "aaaqlng68uk": {
+    "id": "aaaqlng68uk",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 130 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:24.543Z"
+  },
+  "urgkexovut": {
+    "id": "urgkexovut",
+    "userId": "cdntat0ijpb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 5 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:24.550Z"
+  },
+  "1vte20rkilq": {
+    "id": "1vte20rkilq",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 131 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:26.190Z"
+  },
+  "fe789h45f15": {
+    "id": "fe789h45f15",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 132 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:28.023Z"
+  },
+  "iml6ov5oy1h": {
+    "id": "iml6ov5oy1h",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 133 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:29.575Z"
+  },
+  "y4htzcyoqo": {
+    "id": "y4htzcyoqo",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 134 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:31.425Z"
+  },
+  "9f3rja24dhl": {
+    "id": "9f3rja24dhl",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 135 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:33.173Z"
+  },
+  "h8kogrbdce": {
+    "id": "h8kogrbdce",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 136 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:34.957Z"
+  },
+  "owx4nsstovp": {
+    "id": "owx4nsstovp",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 137 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:36.834Z"
+  },
+  "vv2u8l3z8f": {
+    "id": "vv2u8l3z8f",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 138 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:38.453Z"
+  },
+  "bz6sm2mclg": {
+    "id": "bz6sm2mclg",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 139 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:40.141Z"
+  },
+  "jy008bnm46o": {
+    "id": "jy008bnm46o",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 140 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:41.933Z"
+  },
+  "d3kd05w7wvi": {
+    "id": "d3kd05w7wvi",
+    "userId": "cdntat0ijpb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 6 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:41.938Z"
+  },
+  "z82qb3idny8": {
+    "id": "z82qb3idny8",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 141 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:43.622Z"
+  },
+  "6ybw9mf396k": {
+    "id": "6ybw9mf396k",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 142 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:45.372Z"
+  },
+  "y1cdlowkjad": {
+    "id": "y1cdlowkjad",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 143 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:47.393Z"
+  },
+  "6lgci921sou": {
+    "id": "6lgci921sou",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 144 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:49.032Z"
+  },
+  "xyncgz94rx": {
+    "id": "xyncgz94rx",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 145 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:50.848Z"
+  },
+  "j18hrl9ewoh": {
+    "id": "j18hrl9ewoh",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 146 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:52.579Z"
+  },
+  "mfnb87dy2zd": {
+    "id": "mfnb87dy2zd",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 147 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:54.437Z"
+  },
+  "8ee99m2d02": {
+    "id": "8ee99m2d02",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 148 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:56.242Z"
+  },
+  "eg0lt668gnd": {
+    "id": "eg0lt668gnd",
+    "userId": "cdntat0ijpb",
+    "title": "High Glucose Warning",
+    "message": "Your logged sugar level of 149 mg/dL (fasting) shows High Diabetes Risk. Please check your diet advice and tips.",
+    "type": "alert",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:58.129Z"
+  },
+  "hei4u5r6tt": {
+    "id": "hei4u5r6tt",
+    "userId": "cdntat0ijpb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 7 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:45:59.180Z"
+  },
+  "tlfrav2znm9": {
+    "id": "tlfrav2znm9",
+    "userId": "cdntat0ijpb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 8 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:03.701Z"
+  },
+  "ois2qx3n03": {
+    "id": "ois2qx3n03",
+    "userId": "cdntat0ijpb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 9 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:07.841Z"
+  },
+  "ndiu1r8d48l": {
+    "id": "ndiu1r8d48l",
+    "userId": "cdntat0ijpb",
+    "title": "🎉 Level Up!",
+    "message": "Congratulations! You reached Level 10 on your health journey. Keep logging to earn more XP!",
+    "type": "gamification",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:12.376Z"
+  },
+  "gwctm8uoit": {
+    "id": "gwctm8uoit",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 1 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:16.839Z"
+  },
+  "881ae9bnpsk": {
+    "id": "881ae9bnpsk",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 2 on 2026-06-02 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:18.049Z"
+  },
+  "b7qf7dhqd6u": {
+    "id": "b7qf7dhqd6u",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 3 on 2026-06-03 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:19.059Z"
+  },
+  "2n5iidjqeic": {
+    "id": "2n5iidjqeic",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 4 on 2026-06-04 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:20.444Z"
+  },
+  "8kcyxc9ref": {
+    "id": "8kcyxc9ref",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 5 on 2026-06-05 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:21.583Z"
+  },
+  "hgyxb9wsa1t": {
+    "id": "hgyxb9wsa1t",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 6 on 2026-06-06 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:22.668Z"
+  },
+  "lnq37yrqcs": {
+    "id": "lnq37yrqcs",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 7 on 2026-06-07 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:23.781Z"
+  },
+  "283d9chgva5": {
+    "id": "283d9chgva5",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 8 on 2026-06-08 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:24.843Z"
+  },
+  "dii3lh7d1pg": {
+    "id": "dii3lh7d1pg",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 9 on 2026-06-09 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:25.981Z"
+  },
+  "fj8wf2ezg1k": {
+    "id": "fj8wf2ezg1k",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 10 on 2026-06-10 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:27.099Z"
+  },
+  "ohcb94w34b": {
+    "id": "ohcb94w34b",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 11 on 2026-06-11 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:28.518Z"
+  },
+  "t67k9rxo3l": {
+    "id": "t67k9rxo3l",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 12 on 2026-06-12 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:29.862Z"
+  },
+  "6t3fwxwz074": {
+    "id": "6t3fwxwz074",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 13 on 2026-06-13 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:30.986Z"
+  },
+  "5ksso2pm825": {
+    "id": "5ksso2pm825",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 14 on 2026-06-14 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:32.318Z"
+  },
+  "5ohf3xf13n": {
+    "id": "5ohf3xf13n",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 15 on 2026-06-15 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:33.517Z"
+  },
+  "12d86rd00cqc": {
+    "id": "12d86rd00cqc",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 16 on 2026-06-16 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:34.988Z"
+  },
+  "up9kfygw7sg": {
+    "id": "up9kfygw7sg",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 17 on 2026-06-17 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:36.432Z"
+  },
+  "8o3iwfypndk": {
+    "id": "8o3iwfypndk",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 18 on 2026-06-18 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:37.601Z"
+  },
+  "3pejgc7sbs": {
+    "id": "3pejgc7sbs",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 19 on 2026-06-19 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:38.795Z"
+  },
+  "uy85a0vlbta": {
+    "id": "uy85a0vlbta",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 20 on 2026-06-20 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:40.012Z"
+  },
+  "ci286o66wa4": {
+    "id": "ci286o66wa4",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 21 on 2026-06-21 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:41.646Z"
+  },
+  "xnc50d43efa": {
+    "id": "xnc50d43efa",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 22 on 2026-06-22 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:43.117Z"
+  },
+  "kels55ykhl": {
+    "id": "kels55ykhl",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 23 on 2026-06-23 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:44.462Z"
+  },
+  "hk6aadcf5o8": {
+    "id": "hk6aadcf5o8",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 24 on 2026-06-24 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:45.824Z"
+  },
+  "1u6lsw2pjl3": {
+    "id": "1u6lsw2pjl3",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 25 on 2026-06-25 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:47.461Z"
+  },
+  "l06vays18hj": {
+    "id": "l06vays18hj",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 26 on 2026-06-26 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:49.492Z"
+  },
+  "74trnog1w5k": {
+    "id": "74trnog1w5k",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 27 on 2026-06-27 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:51.166Z"
+  },
+  "yqail6hm8": {
+    "id": "yqail6hm8",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 28 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:52.962Z"
+  },
+  "b7p97ilox6o": {
+    "id": "b7p97ilox6o",
+    "userId": "cdntat0ijpb",
+    "title": "Appointment Scheduled",
+    "message": "You have scheduled a checkup with Dr. Dr. Specialist 29 on 2026-06-01 at 14:30.",
+    "type": "appointment",
+    "read": false,
+    "createdAt": "2026-06-19T07:46:54.894Z"
+  }
+}

@@ -1,0 +1,2422 @@
+{
+  "gezh1oys8ow": {
+    "id": "gezh1oys8ow",
+    "userId": "fzdbbtexg3",
+    "type": "fasting",
+    "value": 105,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "",
+    "createdAt": "2026-06-18T08:31:52.596Z"
+  },
+  "w1x2fuukupk": {
+    "id": "w1x2fuukupk",
+    "userId": "aej69ysd5vb",
+    "type": "fasting",
+    "value": 110,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Morning check post fasting cycle.",
+    "createdAt": "2026-06-19T07:04:29.092Z"
+  },
+  "36l4rrr1sok": {
+    "id": "36l4rrr1sok",
+    "userId": "uqbrz0p9ser",
+    "type": "fasting",
+    "value": 110,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Morning check post fasting cycle.",
+    "createdAt": "2026-06-19T07:07:30.774Z"
+  },
+  "en75royzky5": {
+    "id": "en75royzky5",
+    "userId": "4gnkp8v6z6g",
+    "type": "fasting",
+    "value": 110,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Morning check post fasting cycle.",
+    "createdAt": "2026-06-19T07:08:32.096Z"
+  },
+  "2apk62k568v": {
+    "id": "2apk62k568v",
+    "userId": "7mf7ncm7ku5",
+    "type": "fasting",
+    "value": 110,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Morning check post fasting cycle.",
+    "createdAt": "2026-06-19T07:09:26.765Z"
+  },
+  "mlumrh2hvw": {
+    "id": "mlumrh2hvw",
+    "userId": "z2fhf39ea",
+    "type": "fasting",
+    "value": 110,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Morning check post fasting cycle.",
+    "createdAt": "2026-06-19T07:19:18.019Z"
+  },
+  "ozww3zmqjlf": {
+    "id": "ozww3zmqjlf",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 91,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 1",
+    "createdAt": "2026-06-19T07:29:12.386Z"
+  },
+  "fndp5j73n6i": {
+    "id": "fndp5j73n6i",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 92,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 2",
+    "createdAt": "2026-06-19T07:29:13.555Z"
+  },
+  "syrmuwaniu": {
+    "id": "syrmuwaniu",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 93,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 3",
+    "createdAt": "2026-06-19T07:29:14.538Z"
+  },
+  "9g62t6kp1a7": {
+    "id": "9g62t6kp1a7",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 94,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 4",
+    "createdAt": "2026-06-19T07:29:15.627Z"
+  },
+  "pzgkfii955": {
+    "id": "pzgkfii955",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 95,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 5",
+    "createdAt": "2026-06-19T07:29:16.673Z"
+  },
+  "dcpa6nykjfq": {
+    "id": "dcpa6nykjfq",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 96,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 6",
+    "createdAt": "2026-06-19T07:29:17.792Z"
+  },
+  "c4ze36lr3k": {
+    "id": "c4ze36lr3k",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 97,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 7",
+    "createdAt": "2026-06-19T07:29:19.055Z"
+  },
+  "ny0icvrbb2": {
+    "id": "ny0icvrbb2",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 98,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 8",
+    "createdAt": "2026-06-19T07:29:20.371Z"
+  },
+  "q2afz9aockg": {
+    "id": "q2afz9aockg",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 99,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 9",
+    "createdAt": "2026-06-19T07:29:21.483Z"
+  },
+  "18yn579y857": {
+    "id": "18yn579y857",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 100,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 10",
+    "createdAt": "2026-06-19T07:29:22.916Z"
+  },
+  "e26sscz9wgp": {
+    "id": "e26sscz9wgp",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 101,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 11",
+    "createdAt": "2026-06-19T07:29:24.094Z"
+  },
+  "nvin4u8bzeo": {
+    "id": "nvin4u8bzeo",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 102,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 12",
+    "createdAt": "2026-06-19T07:29:25.385Z"
+  },
+  "l250gvcp998": {
+    "id": "l250gvcp998",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 103,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 13",
+    "createdAt": "2026-06-19T07:29:26.756Z"
+  },
+  "bb94ku4ais7": {
+    "id": "bb94ku4ais7",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 104,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 14",
+    "createdAt": "2026-06-19T07:29:28.056Z"
+  },
+  "86bj0klyudk": {
+    "id": "86bj0klyudk",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 105,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 15",
+    "createdAt": "2026-06-19T07:29:29.530Z"
+  },
+  "croc5qqe2im": {
+    "id": "croc5qqe2im",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 106,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 16",
+    "createdAt": "2026-06-19T07:29:30.998Z"
+  },
+  "aftusktenxh": {
+    "id": "aftusktenxh",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 107,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 17",
+    "createdAt": "2026-06-19T07:29:32.163Z"
+  },
+  "hthjd6jfzj5": {
+    "id": "hthjd6jfzj5",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 108,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 18",
+    "createdAt": "2026-06-19T07:29:33.524Z"
+  },
+  "6x3mq03ipy9": {
+    "id": "6x3mq03ipy9",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 109,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 19",
+    "createdAt": "2026-06-19T07:29:34.925Z"
+  },
+  "le9mw276dfe": {
+    "id": "le9mw276dfe",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 110,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 20",
+    "createdAt": "2026-06-19T07:29:36.474Z"
+  },
+  "leczc6qs6se": {
+    "id": "leczc6qs6se",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 111,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 21",
+    "createdAt": "2026-06-19T07:29:37.848Z"
+  },
+  "s0arawlw8g": {
+    "id": "s0arawlw8g",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 112,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 22",
+    "createdAt": "2026-06-19T07:29:39.248Z"
+  },
+  "7dtr1su5ixj": {
+    "id": "7dtr1su5ixj",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 113,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 23",
+    "createdAt": "2026-06-19T07:29:40.796Z"
+  },
+  "q6w5wtseolk": {
+    "id": "q6w5wtseolk",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 114,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 24",
+    "createdAt": "2026-06-19T07:29:42.284Z"
+  },
+  "74yicmcepx7": {
+    "id": "74yicmcepx7",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 115,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 25",
+    "createdAt": "2026-06-19T07:29:43.868Z"
+  },
+  "txp6ry6yk9": {
+    "id": "txp6ry6yk9",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 116,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 26",
+    "createdAt": "2026-06-19T07:29:45.340Z"
+  },
+  "qgaqo6yunzn": {
+    "id": "qgaqo6yunzn",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 117,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 27",
+    "createdAt": "2026-06-19T07:29:46.821Z"
+  },
+  "l0c8k7ylp2": {
+    "id": "l0c8k7ylp2",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 118,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 28",
+    "createdAt": "2026-06-19T07:29:48.270Z"
+  },
+  "ypd0lo9rk3": {
+    "id": "ypd0lo9rk3",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 119,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 29",
+    "createdAt": "2026-06-19T07:29:49.688Z"
+  },
+  "wd733sw1t2": {
+    "id": "wd733sw1t2",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 120,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 30",
+    "createdAt": "2026-06-19T07:29:51.216Z"
+  },
+  "focwwd04a0v": {
+    "id": "focwwd04a0v",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 121,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 31",
+    "createdAt": "2026-06-19T07:29:52.837Z"
+  },
+  "hjelesthz8a": {
+    "id": "hjelesthz8a",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 122,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 32",
+    "createdAt": "2026-06-19T07:29:54.363Z"
+  },
+  "2tlgwuie84y": {
+    "id": "2tlgwuie84y",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 123,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 33",
+    "createdAt": "2026-06-19T07:29:55.792Z"
+  },
+  "45glyop62u": {
+    "id": "45glyop62u",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 124,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 34",
+    "createdAt": "2026-06-19T07:29:57.160Z"
+  },
+  "aanc1cjsbhv": {
+    "id": "aanc1cjsbhv",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 125,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 35",
+    "createdAt": "2026-06-19T07:29:58.490Z"
+  },
+  "fcp14vk4ib4": {
+    "id": "fcp14vk4ib4",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 126,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 36",
+    "createdAt": "2026-06-19T07:30:00.228Z"
+  },
+  "3wm527cb9uk": {
+    "id": "3wm527cb9uk",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 127,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 37",
+    "createdAt": "2026-06-19T07:30:01.684Z"
+  },
+  "z5l9b6pg9zj": {
+    "id": "z5l9b6pg9zj",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 128,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 38",
+    "createdAt": "2026-06-19T07:30:03.054Z"
+  },
+  "itx65gbib1f": {
+    "id": "itx65gbib1f",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 129,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 39",
+    "createdAt": "2026-06-19T07:30:04.722Z"
+  },
+  "fcwoqe2gr0h": {
+    "id": "fcwoqe2gr0h",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 130,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 40",
+    "createdAt": "2026-06-19T07:30:06.206Z"
+  },
+  "pruv49ywimp": {
+    "id": "pruv49ywimp",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 131,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 41",
+    "createdAt": "2026-06-19T07:30:07.677Z"
+  },
+  "gvtiuin3yr7": {
+    "id": "gvtiuin3yr7",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 132,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 42",
+    "createdAt": "2026-06-19T07:30:09.121Z"
+  },
+  "r6kiivjdh7e": {
+    "id": "r6kiivjdh7e",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 133,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 43",
+    "createdAt": "2026-06-19T07:30:10.504Z"
+  },
+  "uwwcp9dboc": {
+    "id": "uwwcp9dboc",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 134,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 44",
+    "createdAt": "2026-06-19T07:30:12.250Z"
+  },
+  "oxkwoqlv1kt": {
+    "id": "oxkwoqlv1kt",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 135,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 45",
+    "createdAt": "2026-06-19T07:30:13.766Z"
+  },
+  "my0c2wdguak": {
+    "id": "my0c2wdguak",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 136,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 46",
+    "createdAt": "2026-06-19T07:30:15.376Z"
+  },
+  "5nbv7m0570e": {
+    "id": "5nbv7m0570e",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 137,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 47",
+    "createdAt": "2026-06-19T07:30:17.216Z"
+  },
+  "s8qhx3g66mo": {
+    "id": "s8qhx3g66mo",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 138,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 48",
+    "createdAt": "2026-06-19T07:30:18.966Z"
+  },
+  "0bfe221dbg8e": {
+    "id": "0bfe221dbg8e",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 139,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 49",
+    "createdAt": "2026-06-19T07:30:20.860Z"
+  },
+  "mqs1vg07h2": {
+    "id": "mqs1vg07h2",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 140,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 50",
+    "createdAt": "2026-06-19T07:30:22.730Z"
+  },
+  "tr26ybwsk5": {
+    "id": "tr26ybwsk5",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 141,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 51",
+    "createdAt": "2026-06-19T07:30:24.324Z"
+  },
+  "6hekaqnnytv": {
+    "id": "6hekaqnnytv",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 142,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 52",
+    "createdAt": "2026-06-19T07:30:26.131Z"
+  },
+  "q8k7rfj1lu": {
+    "id": "q8k7rfj1lu",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 143,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 53",
+    "createdAt": "2026-06-19T07:30:27.807Z"
+  },
+  "7ncj9bmonzf": {
+    "id": "7ncj9bmonzf",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 144,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 54",
+    "createdAt": "2026-06-19T07:30:29.454Z"
+  },
+  "omxcnvy4omo": {
+    "id": "omxcnvy4omo",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 145,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 55",
+    "createdAt": "2026-06-19T07:30:31.189Z"
+  },
+  "kynsp9n478": {
+    "id": "kynsp9n478",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 146,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 56",
+    "createdAt": "2026-06-19T07:30:32.896Z"
+  },
+  "85gvn94sk0q": {
+    "id": "85gvn94sk0q",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 147,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 57",
+    "createdAt": "2026-06-19T07:30:34.807Z"
+  },
+  "rdzmmst68g": {
+    "id": "rdzmmst68g",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 148,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 58",
+    "createdAt": "2026-06-19T07:30:36.470Z"
+  },
+  "f9vao5hwby8": {
+    "id": "f9vao5hwby8",
+    "userId": "ij65tfowlyj",
+    "type": "fasting",
+    "value": 149,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 59",
+    "createdAt": "2026-06-19T07:30:38.233Z"
+  },
+  "ot2dlxhqn8": {
+    "id": "ot2dlxhqn8",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 91,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 1",
+    "createdAt": "2026-06-19T07:33:36.480Z"
+  },
+  "asqpgsv6s84": {
+    "id": "asqpgsv6s84",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 92,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 2",
+    "createdAt": "2026-06-19T07:33:37.595Z"
+  },
+  "k9qw6d30ufn": {
+    "id": "k9qw6d30ufn",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 93,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 3",
+    "createdAt": "2026-06-19T07:33:38.807Z"
+  },
+  "ajvpeftbe6q": {
+    "id": "ajvpeftbe6q",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 94,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 4",
+    "createdAt": "2026-06-19T07:33:39.967Z"
+  },
+  "ltuojw8tny": {
+    "id": "ltuojw8tny",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 95,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 5",
+    "createdAt": "2026-06-19T07:33:41.130Z"
+  },
+  "vt07iyjw378": {
+    "id": "vt07iyjw378",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 96,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 6",
+    "createdAt": "2026-06-19T07:33:42.320Z"
+  },
+  "i9pgdt7awp": {
+    "id": "i9pgdt7awp",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 97,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 7",
+    "createdAt": "2026-06-19T07:33:43.706Z"
+  },
+  "fm0iq0aqln7": {
+    "id": "fm0iq0aqln7",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 98,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 8",
+    "createdAt": "2026-06-19T07:33:45.115Z"
+  },
+  "za8zkq15fl": {
+    "id": "za8zkq15fl",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 99,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 9",
+    "createdAt": "2026-06-19T07:33:46.515Z"
+  },
+  "3u139vgcfo": {
+    "id": "3u139vgcfo",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 100,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 10",
+    "createdAt": "2026-06-19T07:33:47.795Z"
+  },
+  "3ts20emr03l": {
+    "id": "3ts20emr03l",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 101,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 11",
+    "createdAt": "2026-06-19T07:33:49.163Z"
+  },
+  "kweucehga6e": {
+    "id": "kweucehga6e",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 102,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 12",
+    "createdAt": "2026-06-19T07:33:50.458Z"
+  },
+  "qzyz72ccro": {
+    "id": "qzyz72ccro",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 103,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 13",
+    "createdAt": "2026-06-19T07:33:51.806Z"
+  },
+  "o8m5mrnqsts": {
+    "id": "o8m5mrnqsts",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 104,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 14",
+    "createdAt": "2026-06-19T07:33:53.337Z"
+  },
+  "49guxu3eeiy": {
+    "id": "49guxu3eeiy",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 105,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 15",
+    "createdAt": "2026-06-19T07:33:54.801Z"
+  },
+  "kj5vhb6sgue": {
+    "id": "kj5vhb6sgue",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 106,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 16",
+    "createdAt": "2026-06-19T07:33:56.160Z"
+  },
+  "tknb3k86v3r": {
+    "id": "tknb3k86v3r",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 107,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 17",
+    "createdAt": "2026-06-19T07:33:57.454Z"
+  },
+  "edkhdid5svg": {
+    "id": "edkhdid5svg",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 108,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 18",
+    "createdAt": "2026-06-19T07:33:58.830Z"
+  },
+  "unqpnnx4o9j": {
+    "id": "unqpnnx4o9j",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 109,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 19",
+    "createdAt": "2026-06-19T07:34:00.051Z"
+  },
+  "c9hab2u2tc": {
+    "id": "c9hab2u2tc",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 110,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 20",
+    "createdAt": "2026-06-19T07:34:01.374Z"
+  },
+  "kijhm172hsc": {
+    "id": "kijhm172hsc",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 111,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 21",
+    "createdAt": "2026-06-19T07:34:02.752Z"
+  },
+  "9mpn8zb6a6v": {
+    "id": "9mpn8zb6a6v",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 112,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 22",
+    "createdAt": "2026-06-19T07:34:04.459Z"
+  },
+  "wi3p0fepbim": {
+    "id": "wi3p0fepbim",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 113,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 23",
+    "createdAt": "2026-06-19T07:34:05.734Z"
+  },
+  "7jezus5todj": {
+    "id": "7jezus5todj",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 114,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 24",
+    "createdAt": "2026-06-19T07:34:07.136Z"
+  },
+  "o8l9l8cg9cb": {
+    "id": "o8l9l8cg9cb",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 115,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 25",
+    "createdAt": "2026-06-19T07:34:08.628Z"
+  },
+  "gr3cceko5vq": {
+    "id": "gr3cceko5vq",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 116,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 26",
+    "createdAt": "2026-06-19T07:34:10.093Z"
+  },
+  "smpu1iz5p6j": {
+    "id": "smpu1iz5p6j",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 117,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 27",
+    "createdAt": "2026-06-19T07:34:11.461Z"
+  },
+  "qgz8zw9e0td": {
+    "id": "qgz8zw9e0td",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 118,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 28",
+    "createdAt": "2026-06-19T07:34:13.019Z"
+  },
+  "1if8um1h2at": {
+    "id": "1if8um1h2at",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 119,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 29",
+    "createdAt": "2026-06-19T07:34:14.304Z"
+  },
+  "nrdjr1rqfmg": {
+    "id": "nrdjr1rqfmg",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 120,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 30",
+    "createdAt": "2026-06-19T07:34:15.772Z"
+  },
+  "r55r4kz1o5": {
+    "id": "r55r4kz1o5",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 121,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 31",
+    "createdAt": "2026-06-19T07:34:17.222Z"
+  },
+  "ae13ji6d3gc": {
+    "id": "ae13ji6d3gc",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 122,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 32",
+    "createdAt": "2026-06-19T07:34:18.706Z"
+  },
+  "dm4c05jn27k": {
+    "id": "dm4c05jn27k",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 123,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 33",
+    "createdAt": "2026-06-19T07:34:20.207Z"
+  },
+  "qsquij3rmdo": {
+    "id": "qsquij3rmdo",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 124,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 34",
+    "createdAt": "2026-06-19T07:34:21.879Z"
+  },
+  "mgr18447nl": {
+    "id": "mgr18447nl",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 125,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 35",
+    "createdAt": "2026-06-19T07:34:23.264Z"
+  },
+  "8ffiydpteml": {
+    "id": "8ffiydpteml",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 126,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 36",
+    "createdAt": "2026-06-19T07:34:24.866Z"
+  },
+  "ncu16vpig7": {
+    "id": "ncu16vpig7",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 127,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 37",
+    "createdAt": "2026-06-19T07:34:26.328Z"
+  },
+  "pmgg0za8r5": {
+    "id": "pmgg0za8r5",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 128,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 38",
+    "createdAt": "2026-06-19T07:34:27.935Z"
+  },
+  "zbo3vunveyf": {
+    "id": "zbo3vunveyf",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 129,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 39",
+    "createdAt": "2026-06-19T07:34:29.498Z"
+  },
+  "2g0vml9knaz": {
+    "id": "2g0vml9knaz",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 130,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 40",
+    "createdAt": "2026-06-19T07:34:30.980Z"
+  },
+  "ww070rqz67q": {
+    "id": "ww070rqz67q",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 131,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 41",
+    "createdAt": "2026-06-19T07:34:32.521Z"
+  },
+  "bisufxps2pc": {
+    "id": "bisufxps2pc",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 132,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 42",
+    "createdAt": "2026-06-19T07:34:33.969Z"
+  },
+  "0uwtsh2unx0r": {
+    "id": "0uwtsh2unx0r",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 133,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 43",
+    "createdAt": "2026-06-19T07:34:35.630Z"
+  },
+  "oni3jaxfj7": {
+    "id": "oni3jaxfj7",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 134,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 44",
+    "createdAt": "2026-06-19T07:34:37.298Z"
+  },
+  "j55uq1hll3c": {
+    "id": "j55uq1hll3c",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 135,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 45",
+    "createdAt": "2026-06-19T07:34:38.877Z"
+  },
+  "aycp8qvgoa9": {
+    "id": "aycp8qvgoa9",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 136,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 46",
+    "createdAt": "2026-06-19T07:34:40.429Z"
+  },
+  "gqbm1lx7x9h": {
+    "id": "gqbm1lx7x9h",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 137,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 47",
+    "createdAt": "2026-06-19T07:34:42.052Z"
+  },
+  "vke5xdh8n78": {
+    "id": "vke5xdh8n78",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 138,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 48",
+    "createdAt": "2026-06-19T07:34:43.628Z"
+  },
+  "j6yyd3dsqbf": {
+    "id": "j6yyd3dsqbf",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 139,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 49",
+    "createdAt": "2026-06-19T07:34:45.303Z"
+  },
+  "m7ah8d6vmk": {
+    "id": "m7ah8d6vmk",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 140,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 50",
+    "createdAt": "2026-06-19T07:34:47.286Z"
+  },
+  "8wpy3nqwzu5": {
+    "id": "8wpy3nqwzu5",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 141,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 51",
+    "createdAt": "2026-06-19T07:34:48.742Z"
+  },
+  "ywbzfnnnacm": {
+    "id": "ywbzfnnnacm",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 142,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 52",
+    "createdAt": "2026-06-19T07:34:50.501Z"
+  },
+  "u1khlmldi": {
+    "id": "u1khlmldi",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 143,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 53",
+    "createdAt": "2026-06-19T07:34:52.432Z"
+  },
+  "rk4qpo583": {
+    "id": "rk4qpo583",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 144,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 54",
+    "createdAt": "2026-06-19T07:34:53.895Z"
+  },
+  "4wocwlawde": {
+    "id": "4wocwlawde",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 145,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 55",
+    "createdAt": "2026-06-19T07:34:55.632Z"
+  },
+  "iimqwmk3aw": {
+    "id": "iimqwmk3aw",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 146,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 56",
+    "createdAt": "2026-06-19T07:34:57.634Z"
+  },
+  "ha3bp7shpyn": {
+    "id": "ha3bp7shpyn",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 147,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 57",
+    "createdAt": "2026-06-19T07:34:59.350Z"
+  },
+  "hq2pfad16xe": {
+    "id": "hq2pfad16xe",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 148,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 58",
+    "createdAt": "2026-06-19T07:35:01.022Z"
+  },
+  "yjfe0z3xd9o": {
+    "id": "yjfe0z3xd9o",
+    "userId": "8pwkvjbvjej",
+    "type": "fasting",
+    "value": 149,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 59",
+    "createdAt": "2026-06-19T07:35:02.697Z"
+  },
+  "gu22fgcejge": {
+    "id": "gu22fgcejge",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 91,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 1",
+    "createdAt": "2026-06-19T07:39:36.053Z"
+  },
+  "nxzggi4rvp": {
+    "id": "nxzggi4rvp",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 92,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 2",
+    "createdAt": "2026-06-19T07:39:37.242Z"
+  },
+  "ybdy8f0ft0h": {
+    "id": "ybdy8f0ft0h",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 93,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 3",
+    "createdAt": "2026-06-19T07:39:38.232Z"
+  },
+  "szuk4wr7owg": {
+    "id": "szuk4wr7owg",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 94,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 4",
+    "createdAt": "2026-06-19T07:39:39.351Z"
+  },
+  "b7610h2b6bh": {
+    "id": "b7610h2b6bh",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 95,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 5",
+    "createdAt": "2026-06-19T07:39:40.614Z"
+  },
+  "btcbaun6wf4": {
+    "id": "btcbaun6wf4",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 96,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 6",
+    "createdAt": "2026-06-19T07:39:41.959Z"
+  },
+  "yvnplya1tdf": {
+    "id": "yvnplya1tdf",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 97,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 7",
+    "createdAt": "2026-06-19T07:39:43.368Z"
+  },
+  "nhb6mfmd3u": {
+    "id": "nhb6mfmd3u",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 98,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 8",
+    "createdAt": "2026-06-19T07:39:44.926Z"
+  },
+  "io5raabqvq": {
+    "id": "io5raabqvq",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 99,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 9",
+    "createdAt": "2026-06-19T07:39:46.271Z"
+  },
+  "gy0yypp9x5o": {
+    "id": "gy0yypp9x5o",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 100,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 10",
+    "createdAt": "2026-06-19T07:39:47.551Z"
+  },
+  "5jq08goubh": {
+    "id": "5jq08goubh",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 101,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 11",
+    "createdAt": "2026-06-19T07:39:48.778Z"
+  },
+  "t0wybkvo9vp": {
+    "id": "t0wybkvo9vp",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 102,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 12",
+    "createdAt": "2026-06-19T07:39:50.091Z"
+  },
+  "cw049z96j7c": {
+    "id": "cw049z96j7c",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 103,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 13",
+    "createdAt": "2026-06-19T07:39:51.412Z"
+  },
+  "4gaclrzn8wf": {
+    "id": "4gaclrzn8wf",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 104,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 14",
+    "createdAt": "2026-06-19T07:39:52.594Z"
+  },
+  "tv2rkzou25n": {
+    "id": "tv2rkzou25n",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 105,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 15",
+    "createdAt": "2026-06-19T07:39:53.982Z"
+  },
+  "11r6y4evu3tc": {
+    "id": "11r6y4evu3tc",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 106,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 16",
+    "createdAt": "2026-06-19T07:39:55.470Z"
+  },
+  "jyk5evla7rj": {
+    "id": "jyk5evla7rj",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 107,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 17",
+    "createdAt": "2026-06-19T07:39:56.828Z"
+  },
+  "2trd2i3k5lh": {
+    "id": "2trd2i3k5lh",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 108,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 18",
+    "createdAt": "2026-06-19T07:39:58.152Z"
+  },
+  "t4qiu3jwhx7": {
+    "id": "t4qiu3jwhx7",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 109,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 19",
+    "createdAt": "2026-06-19T07:39:59.473Z"
+  },
+  "asczsoewzr": {
+    "id": "asczsoewzr",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 110,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 20",
+    "createdAt": "2026-06-19T07:40:00.831Z"
+  },
+  "ys5d5fmhhag": {
+    "id": "ys5d5fmhhag",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 111,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 21",
+    "createdAt": "2026-06-19T07:40:02.293Z"
+  },
+  "9jqb2vhxjp": {
+    "id": "9jqb2vhxjp",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 112,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 22",
+    "createdAt": "2026-06-19T07:40:03.825Z"
+  },
+  "tvewu7laktp": {
+    "id": "tvewu7laktp",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 113,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 23",
+    "createdAt": "2026-06-19T07:40:05.061Z"
+  },
+  "jmekzsk1bh8": {
+    "id": "jmekzsk1bh8",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 114,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 24",
+    "createdAt": "2026-06-19T07:40:06.413Z"
+  },
+  "vbcd65mnx5e": {
+    "id": "vbcd65mnx5e",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 115,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 25",
+    "createdAt": "2026-06-19T07:40:07.933Z"
+  },
+  "oqa2xz1xenc": {
+    "id": "oqa2xz1xenc",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 116,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 26",
+    "createdAt": "2026-06-19T07:40:09.333Z"
+  },
+  "rd2rgdwm4jj": {
+    "id": "rd2rgdwm4jj",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 117,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 27",
+    "createdAt": "2026-06-19T07:40:10.962Z"
+  },
+  "bf4b6xos0qd": {
+    "id": "bf4b6xos0qd",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 118,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 28",
+    "createdAt": "2026-06-19T07:40:12.427Z"
+  },
+  "b6g58quktgg": {
+    "id": "b6g58quktgg",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 119,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 29",
+    "createdAt": "2026-06-19T07:40:13.778Z"
+  },
+  "ltrvajasvme": {
+    "id": "ltrvajasvme",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 120,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 30",
+    "createdAt": "2026-06-19T07:40:15.192Z"
+  },
+  "zfeyu84d6h": {
+    "id": "zfeyu84d6h",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 121,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 31",
+    "createdAt": "2026-06-19T07:40:16.645Z"
+  },
+  "afgn45hi9n": {
+    "id": "afgn45hi9n",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 122,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 32",
+    "createdAt": "2026-06-19T07:40:18.116Z"
+  },
+  "xtk3e1vs4u": {
+    "id": "xtk3e1vs4u",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 123,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 33",
+    "createdAt": "2026-06-19T07:40:19.581Z"
+  },
+  "6idfpfdvl4": {
+    "id": "6idfpfdvl4",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 124,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 34",
+    "createdAt": "2026-06-19T07:40:21.087Z"
+  },
+  "ryhbtk6ewqc": {
+    "id": "ryhbtk6ewqc",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 125,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 35",
+    "createdAt": "2026-06-19T07:40:22.510Z"
+  },
+  "47zxz10yx68": {
+    "id": "47zxz10yx68",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 126,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 36",
+    "createdAt": "2026-06-19T07:40:23.912Z"
+  },
+  "lfr8fhid9zp": {
+    "id": "lfr8fhid9zp",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 127,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 37",
+    "createdAt": "2026-06-19T07:40:25.397Z"
+  },
+  "x9z9iggn01": {
+    "id": "x9z9iggn01",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 128,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 38",
+    "createdAt": "2026-06-19T07:40:26.919Z"
+  },
+  "x2g4dpjjw7": {
+    "id": "x2g4dpjjw7",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 129,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 39",
+    "createdAt": "2026-06-19T07:40:28.427Z"
+  },
+  "5z80jubaebv": {
+    "id": "5z80jubaebv",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 130,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 40",
+    "createdAt": "2026-06-19T07:40:30.011Z"
+  },
+  "h1w51sl2v1c": {
+    "id": "h1w51sl2v1c",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 131,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 41",
+    "createdAt": "2026-06-19T07:40:31.379Z"
+  },
+  "2fc6dwapacb": {
+    "id": "2fc6dwapacb",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 132,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 42",
+    "createdAt": "2026-06-19T07:40:33.004Z"
+  },
+  "2xzje6hi3vm": {
+    "id": "2xzje6hi3vm",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 133,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 43",
+    "createdAt": "2026-06-19T07:40:34.616Z"
+  },
+  "2ix5zzlup5e": {
+    "id": "2ix5zzlup5e",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 134,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 44",
+    "createdAt": "2026-06-19T07:40:36.283Z"
+  },
+  "kw9dz0v5uf": {
+    "id": "kw9dz0v5uf",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 135,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 45",
+    "createdAt": "2026-06-19T07:40:37.966Z"
+  },
+  "remxs7vwti": {
+    "id": "remxs7vwti",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 136,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 46",
+    "createdAt": "2026-06-19T07:40:39.846Z"
+  },
+  "6nny3ze5ys": {
+    "id": "6nny3ze5ys",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 137,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 47",
+    "createdAt": "2026-06-19T07:40:41.550Z"
+  },
+  "7jkv7uaoig": {
+    "id": "7jkv7uaoig",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 138,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 48",
+    "createdAt": "2026-06-19T07:40:43.369Z"
+  },
+  "5a83ndokg3o": {
+    "id": "5a83ndokg3o",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 139,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 49",
+    "createdAt": "2026-06-19T07:40:44.914Z"
+  },
+  "popzo5cpvkd": {
+    "id": "popzo5cpvkd",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 140,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 50",
+    "createdAt": "2026-06-19T07:40:46.611Z"
+  },
+  "zo63szpesw": {
+    "id": "zo63szpesw",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 141,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 51",
+    "createdAt": "2026-06-19T07:40:48.117Z"
+  },
+  "cdm4y4g50ed": {
+    "id": "cdm4y4g50ed",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 142,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 52",
+    "createdAt": "2026-06-19T07:40:49.790Z"
+  },
+  "4czas47uhx8": {
+    "id": "4czas47uhx8",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 143,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 53",
+    "createdAt": "2026-06-19T07:40:51.486Z"
+  },
+  "gmiih7qnz1b": {
+    "id": "gmiih7qnz1b",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 144,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 54",
+    "createdAt": "2026-06-19T07:40:53.241Z"
+  },
+  "5earnqfc13j": {
+    "id": "5earnqfc13j",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 145,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 55",
+    "createdAt": "2026-06-19T07:40:55.100Z"
+  },
+  "k2my2yxvfo9": {
+    "id": "k2my2yxvfo9",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 146,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 56",
+    "createdAt": "2026-06-19T07:40:56.961Z"
+  },
+  "wrgxuz41ju8": {
+    "id": "wrgxuz41ju8",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 147,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 57",
+    "createdAt": "2026-06-19T07:40:58.802Z"
+  },
+  "ga2c31j27z": {
+    "id": "ga2c31j27z",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 148,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 58",
+    "createdAt": "2026-06-19T07:41:00.596Z"
+  },
+  "hs1uhjl8j98": {
+    "id": "hs1uhjl8j98",
+    "userId": "jpqt9na6hdb",
+    "type": "fasting",
+    "value": 149,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 59",
+    "createdAt": "2026-06-19T07:41:02.458Z"
+  },
+  "vtspymds03m": {
+    "id": "vtspymds03m",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 91,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 1",
+    "createdAt": "2026-06-19T07:44:28.650Z"
+  },
+  "mwz1noj4uki": {
+    "id": "mwz1noj4uki",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 92,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 2",
+    "createdAt": "2026-06-19T07:44:29.848Z"
+  },
+  "u3vyo0yu9": {
+    "id": "u3vyo0yu9",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 93,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 3",
+    "createdAt": "2026-06-19T07:44:30.917Z"
+  },
+  "f2eqohhnwzr": {
+    "id": "f2eqohhnwzr",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 94,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 4",
+    "createdAt": "2026-06-19T07:44:31.941Z"
+  },
+  "2wm1uii0a0m": {
+    "id": "2wm1uii0a0m",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 95,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 5",
+    "createdAt": "2026-06-19T07:44:33.050Z"
+  },
+  "gcatcelg53": {
+    "id": "gcatcelg53",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 96,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 6",
+    "createdAt": "2026-06-19T07:44:34.368Z"
+  },
+  "x8rhgbgd2j8": {
+    "id": "x8rhgbgd2j8",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 97,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 7",
+    "createdAt": "2026-06-19T07:44:35.885Z"
+  },
+  "widb28ju5ql": {
+    "id": "widb28ju5ql",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 98,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 8",
+    "createdAt": "2026-06-19T07:44:37.202Z"
+  },
+  "lemh5pnqgqr": {
+    "id": "lemh5pnqgqr",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 99,
+    "classification": "NORMAL",
+    "riskLevel": "Low",
+    "notes": "Batch glucose tracking slot 9",
+    "createdAt": "2026-06-19T07:44:38.325Z"
+  },
+  "35uvpm5ikbn": {
+    "id": "35uvpm5ikbn",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 100,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 10",
+    "createdAt": "2026-06-19T07:44:39.490Z"
+  },
+  "0224xtac8upk": {
+    "id": "0224xtac8upk",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 101,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 11",
+    "createdAt": "2026-06-19T07:44:40.729Z"
+  },
+  "fjfpptxffn": {
+    "id": "fjfpptxffn",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 102,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 12",
+    "createdAt": "2026-06-19T07:44:42.036Z"
+  },
+  "6oulb3b7xqp": {
+    "id": "6oulb3b7xqp",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 103,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 13",
+    "createdAt": "2026-06-19T07:44:43.343Z"
+  },
+  "p6nnh42l8x7": {
+    "id": "p6nnh42l8x7",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 104,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 14",
+    "createdAt": "2026-06-19T07:44:44.869Z"
+  },
+  "f1uh84w248c": {
+    "id": "f1uh84w248c",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 105,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 15",
+    "createdAt": "2026-06-19T07:44:46.291Z"
+  },
+  "y261r9srjfr": {
+    "id": "y261r9srjfr",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 106,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 16",
+    "createdAt": "2026-06-19T07:44:47.646Z"
+  },
+  "kirn31vc2if": {
+    "id": "kirn31vc2if",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 107,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 17",
+    "createdAt": "2026-06-19T07:44:48.914Z"
+  },
+  "mzbuvqaugn": {
+    "id": "mzbuvqaugn",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 108,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 18",
+    "createdAt": "2026-06-19T07:44:50.139Z"
+  },
+  "6b0j22klpt8": {
+    "id": "6b0j22klpt8",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 109,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 19",
+    "createdAt": "2026-06-19T07:44:51.447Z"
+  },
+  "83eq3pqygt4": {
+    "id": "83eq3pqygt4",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 110,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 20",
+    "createdAt": "2026-06-19T07:44:52.819Z"
+  },
+  "liy3cez71k": {
+    "id": "liy3cez71k",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 111,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 21",
+    "createdAt": "2026-06-19T07:44:54.331Z"
+  },
+  "qzrlcd15wrj": {
+    "id": "qzrlcd15wrj",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 112,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 22",
+    "createdAt": "2026-06-19T07:44:55.681Z"
+  },
+  "xsms5k8j6kf": {
+    "id": "xsms5k8j6kf",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 113,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 23",
+    "createdAt": "2026-06-19T07:44:57.103Z"
+  },
+  "l82af8hpaah": {
+    "id": "l82af8hpaah",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 114,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 24",
+    "createdAt": "2026-06-19T07:44:58.644Z"
+  },
+  "j1jz0zpdcih": {
+    "id": "j1jz0zpdcih",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 115,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 25",
+    "createdAt": "2026-06-19T07:45:00.090Z"
+  },
+  "kosw7ux8vwp": {
+    "id": "kosw7ux8vwp",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 116,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 26",
+    "createdAt": "2026-06-19T07:45:01.709Z"
+  },
+  "giixb70iskh": {
+    "id": "giixb70iskh",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 117,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 27",
+    "createdAt": "2026-06-19T07:45:03.219Z"
+  },
+  "22zs7ajdjrq": {
+    "id": "22zs7ajdjrq",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 118,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 28",
+    "createdAt": "2026-06-19T07:45:04.958Z"
+  },
+  "qfwj6i5xgf": {
+    "id": "qfwj6i5xgf",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 119,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 29",
+    "createdAt": "2026-06-19T07:45:06.576Z"
+  },
+  "4frjgv681iy": {
+    "id": "4frjgv681iy",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 120,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 30",
+    "createdAt": "2026-06-19T07:45:07.971Z"
+  },
+  "i60eg78gma": {
+    "id": "i60eg78gma",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 121,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 31",
+    "createdAt": "2026-06-19T07:45:09.676Z"
+  },
+  "2h3sq03er29": {
+    "id": "2h3sq03er29",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 122,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 32",
+    "createdAt": "2026-06-19T07:45:11.522Z"
+  },
+  "iq8tkvoo0jb": {
+    "id": "iq8tkvoo0jb",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 123,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 33",
+    "createdAt": "2026-06-19T07:45:12.968Z"
+  },
+  "egfcb78k5h": {
+    "id": "egfcb78k5h",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 124,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 34",
+    "createdAt": "2026-06-19T07:45:14.811Z"
+  },
+  "1aqki2bu99d": {
+    "id": "1aqki2bu99d",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 125,
+    "classification": "PREDIABETIC",
+    "riskLevel": "Medium",
+    "notes": "Batch glucose tracking slot 35",
+    "createdAt": "2026-06-19T07:45:16.352Z"
+  },
+  "y3u5hkjvxj": {
+    "id": "y3u5hkjvxj",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 126,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 36",
+    "createdAt": "2026-06-19T07:45:18.080Z"
+  },
+  "lxrfiiztnzq": {
+    "id": "lxrfiiztnzq",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 127,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 37",
+    "createdAt": "2026-06-19T07:45:19.814Z"
+  },
+  "pe9ey24spsc": {
+    "id": "pe9ey24spsc",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 128,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 38",
+    "createdAt": "2026-06-19T07:45:21.459Z"
+  },
+  "arurylt8iwp": {
+    "id": "arurylt8iwp",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 129,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 39",
+    "createdAt": "2026-06-19T07:45:22.981Z"
+  },
+  "lh9w8ve0ec": {
+    "id": "lh9w8ve0ec",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 130,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 40",
+    "createdAt": "2026-06-19T07:45:24.540Z"
+  },
+  "gh9ckc1nhts": {
+    "id": "gh9ckc1nhts",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 131,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 41",
+    "createdAt": "2026-06-19T07:45:26.187Z"
+  },
+  "qhaumcng6yc": {
+    "id": "qhaumcng6yc",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 132,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 42",
+    "createdAt": "2026-06-19T07:45:28.020Z"
+  },
+  "pke7n9bk9ha": {
+    "id": "pke7n9bk9ha",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 133,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 43",
+    "createdAt": "2026-06-19T07:45:29.571Z"
+  },
+  "6z2xm2i8ifi": {
+    "id": "6z2xm2i8ifi",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 134,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 44",
+    "createdAt": "2026-06-19T07:45:31.422Z"
+  },
+  "z0b32on3eq8": {
+    "id": "z0b32on3eq8",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 135,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 45",
+    "createdAt": "2026-06-19T07:45:33.170Z"
+  },
+  "zlftrstwqu": {
+    "id": "zlftrstwqu",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 136,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 46",
+    "createdAt": "2026-06-19T07:45:34.954Z"
+  },
+  "repurnkz61": {
+    "id": "repurnkz61",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 137,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 47",
+    "createdAt": "2026-06-19T07:45:36.830Z"
+  },
+  "san6br9787": {
+    "id": "san6br9787",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 138,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 48",
+    "createdAt": "2026-06-19T07:45:38.450Z"
+  },
+  "4ccddg50f0u": {
+    "id": "4ccddg50f0u",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 139,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 49",
+    "createdAt": "2026-06-19T07:45:40.138Z"
+  },
+  "bugvemlmcrc": {
+    "id": "bugvemlmcrc",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 140,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 50",
+    "createdAt": "2026-06-19T07:45:41.927Z"
+  },
+  "12nbgl3k26u": {
+    "id": "12nbgl3k26u",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 141,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 51",
+    "createdAt": "2026-06-19T07:45:43.619Z"
+  },
+  "1dnpdlqw8ud": {
+    "id": "1dnpdlqw8ud",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 142,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 52",
+    "createdAt": "2026-06-19T07:45:45.369Z"
+  },
+  "o01owzc0in": {
+    "id": "o01owzc0in",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 143,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 53",
+    "createdAt": "2026-06-19T07:45:47.389Z"
+  },
+  "swjspufrlj": {
+    "id": "swjspufrlj",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 144,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 54",
+    "createdAt": "2026-06-19T07:45:49.027Z"
+  },
+  "nyeq9jmwml": {
+    "id": "nyeq9jmwml",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 145,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 55",
+    "createdAt": "2026-06-19T07:45:50.844Z"
+  },
+  "ry9q7slfhkg": {
+    "id": "ry9q7slfhkg",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 146,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 56",
+    "createdAt": "2026-06-19T07:45:52.576Z"
+  },
+  "ay9piwd3te5": {
+    "id": "ay9piwd3te5",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 147,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 57",
+    "createdAt": "2026-06-19T07:45:54.434Z"
+  },
+  "mdn0333idie": {
+    "id": "mdn0333idie",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 148,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 58",
+    "createdAt": "2026-06-19T07:45:56.240Z"
+  },
+  "72ojzs2wrsu": {
+    "id": "72ojzs2wrsu",
+    "userId": "cdntat0ijpb",
+    "type": "fasting",
+    "value": 149,
+    "classification": "HIGH DIABETES RISK",
+    "riskLevel": "High",
+    "notes": "Batch glucose tracking slot 59",
+    "createdAt": "2026-06-19T07:45:58.125Z"
+  }
+}

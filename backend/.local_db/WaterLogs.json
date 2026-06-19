@@ -1,0 +1,1418 @@
+{
+  "t726v18lwnk": {
+    "userId": "496z4i6ra5x",
+    "date": "2026-06-17",
+    "intakeMl": 0,
+    "goalMl": 2275,
+    "logs": [],
+    "id": "t726v18lwnk"
+  },
+  "br7boc7tqdd": {
+    "userId": "fzdbbtexg3",
+    "date": "2026-06-18",
+    "intakeMl": 0,
+    "goalMl": 2100,
+    "logs": [],
+    "id": "br7boc7tqdd"
+  },
+  "7tzkq3myz1q": {
+    "userId": "w1f9mxb6tm",
+    "date": "2026-06-19",
+    "intakeMl": 250,
+    "goalMl": 1995,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "08:58 am",
+        "timestamp": "2026-06-19T03:28:01.430Z"
+      }
+    ],
+    "id": "7tzkq3myz1q"
+  },
+  "y398s9nbbe": {
+    "userId": "aej69ysd5vb",
+    "date": "2026-06-19",
+    "intakeMl": 250,
+    "goalMl": 2555,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "12:34 pm",
+        "timestamp": "2026-06-19T07:04:40.618Z"
+      }
+    ],
+    "id": "y398s9nbbe"
+  },
+  "uj9ugem89rs": {
+    "userId": "uqbrz0p9ser",
+    "date": "2026-06-19",
+    "intakeMl": 250,
+    "goalMl": 2555,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "12:37 pm",
+        "timestamp": "2026-06-19T07:07:31.690Z"
+      }
+    ],
+    "id": "uj9ugem89rs"
+  },
+  "12unh7e3dqdd": {
+    "userId": "4gnkp8v6z6g",
+    "date": "2026-06-19",
+    "intakeMl": 250,
+    "goalMl": 2555,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "12:38 pm",
+        "timestamp": "2026-06-19T07:08:32.940Z"
+      }
+    ],
+    "id": "12unh7e3dqdd"
+  },
+  "jare36ybhr": {
+    "userId": "7mf7ncm7ku5",
+    "date": "2026-06-19",
+    "intakeMl": 250,
+    "goalMl": 2555,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "12:39 pm",
+        "timestamp": "2026-06-19T07:09:27.721Z"
+      }
+    ],
+    "id": "jare36ybhr"
+  },
+  "6och0ibghuo": {
+    "userId": "z2fhf39ea",
+    "date": "2026-06-19",
+    "intakeMl": 250,
+    "goalMl": 2555,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "12:49 pm",
+        "timestamp": "2026-06-19T07:19:18.929Z"
+      }
+    ],
+    "id": "6och0ibghuo"
+  },
+  "txw2imxq2xt": {
+    "userId": "ij65tfowlyj",
+    "date": "2026-06-19",
+    "intakeMl": 16000,
+    "goalMl": 2765,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:39.046Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:39.345Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:39.612Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:39.865Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:40.127Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:40.371Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:40.621Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:40.875Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:41.122Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:41.374Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:41.635Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:41.887Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:42.128Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:42.392Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:42.653Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:42.907Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:43.160Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:43.404Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:43.653Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:43.902Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:44.155Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:44.399Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:44.679Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:44.940Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:45.205Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:45.456Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:45.698Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:45.997Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:46.257Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:46.509Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:46.768Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:47.031Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:47.274Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:47.529Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:47.778Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:48.025Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:48.394Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:48.650Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:48.893Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:49.167Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:49.446Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:49.718Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:49.990Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:50.233Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:50.493Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:50.753Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:51.040Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:51.291Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:51.563Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:51.853Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:52.102Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:52.349Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:52.619Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:52.902Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:53.190Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:53.493Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:53.788Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:54.061Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:54.367Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:54.651Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:54.957Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:55.226Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:55.478Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:00 pm",
+        "timestamp": "2026-06-19T07:30:55.732Z"
+      }
+    ],
+    "id": "txw2imxq2xt"
+  },
+  "hjqcdkb5va": {
+    "userId": "8pwkvjbvjej",
+    "date": "2026-06-19",
+    "intakeMl": 16000,
+    "goalMl": 2765,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:03.563Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:03.809Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:04.066Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:04.335Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:04.602Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:04.872Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:05.131Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:05.398Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:05.657Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:05.920Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:06.180Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:06.464Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:06.731Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:06.985Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:07.256Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:07.521Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:07.783Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:08.021Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:08.300Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:08.543Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:08.786Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:09.039Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:09.332Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:09.633Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:09.912Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:10.156Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:10.430Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:10.710Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:10.960Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:11.210Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:11.482Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:11.744Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:12.003Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:12.238Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:12.527Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:12.806Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:13.055Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:13.301Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:13.546Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:13.803Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:14.054Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:14.319Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:14.598Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:14.841Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:15.130Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:15.405Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:15.689Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:15.930Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:16.225Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:16.489Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:16.733Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:16.998Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:17.244Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:17.498Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:17.807Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:18.098Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:18.369Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:18.637Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:18.900Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:19.173Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:19.453Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:19.732Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:20.001Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:05 pm",
+        "timestamp": "2026-06-19T07:35:20.267Z"
+      }
+    ],
+    "id": "hjqcdkb5va"
+  },
+  "bcwjzc1uhi": {
+    "userId": "jpqt9na6hdb",
+    "date": "2026-06-19",
+    "intakeMl": 16000,
+    "goalMl": 2765,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:03.271Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:03.527Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:03.792Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:04.046Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:04.299Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:04.564Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:04.822Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:05.109Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:05.378Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:05.653Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:05.910Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:06.177Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:06.443Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:06.729Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:06.974Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:07.216Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:07.461Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:07.714Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:07.971Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:08.209Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:08.441Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:08.705Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:08.948Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:09.247Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:09.511Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:09.762Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:10.019Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:10.299Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:10.552Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:10.807Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:11.081Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:11.339Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:11.587Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:11.843Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:12.089Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:12.341Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:12.591Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:12.865Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:13.114Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:13.372Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:13.635Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:13.895Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:14.141Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:14.392Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:14.682Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:14.963Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:15.231Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:15.524Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:15.820Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:16.087Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:16.343Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:16.608Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:16.867Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:17.116Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:17.376Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:17.632Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:17.889Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:18.166Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:18.423Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:18.714Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:18.968Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:19.239Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:19.525Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:11 pm",
+        "timestamp": "2026-06-19T07:41:19.786Z"
+      }
+    ],
+    "id": "bcwjzc1uhi"
+  },
+  "bftodo8kvwj": {
+    "userId": "cdntat0ijpb",
+    "date": "2026-06-19",
+    "intakeMl": 16000,
+    "goalMl": 2765,
+    "logs": [
+      {
+        "amountMl": 250,
+        "loggedAt": "01:15 pm",
+        "timestamp": "2026-06-19T07:45:58.920Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:15 pm",
+        "timestamp": "2026-06-19T07:45:59.175Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:15 pm",
+        "timestamp": "2026-06-19T07:45:59.429Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:15 pm",
+        "timestamp": "2026-06-19T07:45:59.719Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:15 pm",
+        "timestamp": "2026-06-19T07:45:59.984Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:00.244Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:00.514Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:00.773Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:01.053Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:01.333Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:01.601Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:01.877Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:02.155Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:02.418Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:02.659Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:02.929Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:03.184Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:03.439Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:03.696Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:03.953Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:04.253Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:04.495Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:04.752Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:04.995Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:05.254Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:05.490Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:05.734Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:05.997Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:06.245Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:06.503Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:06.756Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:07.055Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:07.326Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:07.580Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:07.837Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:08.109Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:08.429Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:08.674Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:08.944Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:09.205Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:09.508Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:09.766Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:10.035Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:10.306Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:10.579Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:10.831Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:11.100Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:11.359Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:11.597Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:11.846Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:12.112Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:12.371Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:12.620Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:12.880Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:13.142Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:13.404Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:13.666Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:13.926Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:14.199Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:14.464Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:14.788Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:15.075Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:15.342Z"
+      },
+      {
+        "amountMl": 250,
+        "loggedAt": "01:16 pm",
+        "timestamp": "2026-06-19T07:46:15.615Z"
+      }
+    ],
+    "id": "bftodo8kvwj"
+  }
+}

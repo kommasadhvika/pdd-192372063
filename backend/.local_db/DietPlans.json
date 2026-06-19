@@ -1,0 +1,1016 @@
+{
+  "496z4i6ra5x": {
+    "userId": "496z4i6ra5x",
+    "dietType": "Indian-Vegetarian",
+    "calorieTarget": 1781,
+    "waterRecommendationLiters": 2.3,
+    "schedule": [
+      {
+        "day": "Monday",
+        "breakfast": {
+          "name": "Oats Upma with veggies",
+          "calories": 424,
+          "carbs": 59,
+          "protein": 14,
+          "fat": 8,
+          "time": "08:00 AM"
+        },
+        "lunch": {
+          "name": "Brown rice (1 cup), Dal tadka, Mixed vegetable sabzi",
+          "calories": 713,
+          "carbs": 110,
+          "protein": 24,
+          "fat": 14,
+          "time": "01:30 PM"
+        },
+        "dinner": {
+          "name": "Mixed vegetable soup, Grilled Paneer (100g)",
+          "calories": 509,
+          "carbs": 17,
+          "protein": 31,
+          "fat": 27,
+          "time": "08:00 PM"
+        },
+        "snacks": {
+          "name": "Roasted chana (handful)",
+          "calories": 170,
+          "carbs": 26,
+          "protein": 10,
+          "fat": 3,
+          "time": "05:00 PM"
+        },
+        "totalCalories": 1816
+      },
+      {
+        "day": "Tuesday",
+        "breakfast": {
+          "name": "Moong Dal Chilla (2) with mint chutney",
+          "calories": 373,
+          "carbs": 47,
+          "protein": 20,
+          "fat": 7,
+          "time": "08:00 AM"
+        },
+        "lunch": {
+          "name": "Whole wheat chapati (2), Palak paneer, Cucumber salad",
+          "calories": 764,
+          "carbs": 68,
+          "protein": 34,
+          "fat": 25,
+          "time": "01:30 PM"
+        },
+        "dinner": {
+          "name": "Soya chunks curry, Broccoli stir-fry",
+          "calories": 475,
+          "carbs": 25,
+          "protein": 37,
+          "fat": 14,
+          "time": "08:00 PM"
+        },
+        "snacks": {
+          "name": "Walnuts & Almonds (10 total)",
+          "calories": 204,
+          "carbs": 5,
+          "protein": 5,
+          "fat": 19,
+          "time": "05:00 PM"
+        },
+        "totalCalories": 1816
+      },
+      {
+        "day": "Wednesday",
+        "breakfast": {
+          "name": "Vegetable Dalia",
+          "calories": 356,
+          "carbs": 54,
+          "protein": 12,
+          "fat": 5,
+          "time": "08:00 AM"
+        },
+        "lunch": {
+          "name": "Quinoa pulav with chickpeas & curd",
+          "calories": 679,
+          "carbs": 93,
+          "protein": 25,
+          "fat": 12,
+          "time": "01:30 PM"
+        },
+        "dinner": {
+          "name": "Chapati (1), Tofu bhurji, Green salad",
+          "calories": 526,
+          "carbs": 41,
+          "protein": 31,
+          "fat": 17,
+          "time": "08:00 PM"
+        },
+        "snacks": {
+          "name": "Buttermilk (1 glass) with chia seeds",
+          "calories": 136,
+          "carbs": 9,
+          "protein": 5,
+          "fat": 3,
+          "time": "05:00 PM"
+        },
+        "totalCalories": 1697
+      },
+      {
+        "day": "Thursday",
+        "breakfast": {
+          "name": "Sprouted Moong Salad with paneer",
+          "calories": 441,
+          "carbs": 31,
+          "protein": 27,
+          "fat": 17,
+          "time": "08:00 AM"
+        },
+        "lunch": {
+          "name": "Chapati (2), Bhindi Masala, Boondi raita (low-fat)",
+          "calories": 730,
+          "carbs": 81,
+          "protein": 20,
+          "fat": 20,
+          "time": "01:30 PM"
+        },
+        "dinner": {
+          "name": "Clear vegetable broth, Moong dal khichdi (dry, 1 cup)",
+          "calories": 492,
+          "carbs": 76,
+          "protein": 17,
+          "fat": 7,
+          "time": "08:00 PM"
+        },
+        "snacks": {
+          "name": "Cucumber slices with hummus",
+          "calories": 187,
+          "carbs": 14,
+          "protein": 7,
+          "fat": 10,
+          "time": "05:00 PM"
+        },
+        "totalCalories": 1850
+      },
+      {
+        "day": "Friday",
+        "breakfast": {
+          "name": "Ragi Roti (1) with curd",
+          "calories": 407,
+          "carbs": 61,
+          "protein": 10,
+          "fat": 8,
+          "time": "08:00 AM"
+        },
+        "lunch": {
+          "name": "Brown rice (1 cup), Rajma curry, Stir-fry beans",
+          "calories": 696,
+          "carbs": 105,
+          "protein": 27,
+          "fat": 10,
+          "time": "01:30 PM"
+        },
+        "dinner": {
+          "name": "Grilled mushroom and paneer salad with lime dressing",
+          "calories": 543,
+          "carbs": 14,
+          "protein": 32,
+          "fat": 31,
+          "time": "08:00 PM"
+        },
+        "snacks": {
+          "name": "Sprouted salad (half cup)",
+          "calories": 153,
+          "carbs": 20,
+          "protein": 9,
+          "fat": 2,
+          "time": "05:00 PM"
+        },
+        "totalCalories": 1799
+      },
+      {
+        "day": "Saturday",
+        "breakfast": {
+          "name": "Idli (2) with sambar (no potatoes)",
+          "calories": 339,
+          "carbs": 64,
+          "protein": 10,
+          "fat": 3,
+          "time": "08:00 AM"
+        },
+        "lunch": {
+          "name": "Millets roti (2), Baingan bharta, Dal fry",
+          "calories": 747,
+          "carbs": 85,
+          "protein": 25,
+          "fat": 17,
+          "time": "01:30 PM"
+        },
+        "dinner": {
+          "name": "Methi thepla (2) with roasted flaxseed curd",
+          "calories": 560,
+          "carbs": 64,
+          "protein": 15,
+          "fat": 17,
+          "time": "08:00 PM"
+        },
+        "snacks": {
+          "name": "Green tea & 2 digestive biscuits",
+          "calories": 161,
+          "carbs": 24,
+          "protein": 3,
+          "fat": 5,
+          "time": "05:00 PM"
+        },
+        "totalCalories": 1808
+      },
+      {
+        "day": "Sunday",
+        "breakfast": {
+          "name": "Besan Chilla (2) with low-fat curd",
+          "calories": 390,
+          "carbs": 44,
+          "protein": 19,
+          "fat": 8,
+          "time": "08:00 AM"
+        },
+        "lunch": {
+          "name": "Multi-grain chapati (2), Lauki chana dal, Tomato onion salad",
+          "calories": 645,
+          "carbs": 76,
+          "protein": 22,
+          "fat": 12,
+          "time": "01:30 PM"
+        },
+        "dinner": {
+          "name": "Stir-fry bell peppers, beans, paneer & cabbage soup",
+          "calories": 458,
+          "carbs": 20,
+          "protein": 27,
+          "fat": 24,
+          "time": "08:00 PM"
+        },
+        "snacks": {
+          "name": "Roasted makhana (1 cup)",
+          "calories": 187,
+          "carbs": 31,
+          "protein": 5,
+          "fat": 3,
+          "time": "05:00 PM"
+        },
+        "totalCalories": 1680
+      }
+    ],
+    "groceryList": [
+      "Oats",
+      "Upma",
+      "Veggies",
+      "Brown",
+      "Rice",
+      "Dal",
+      "Tadka",
+      "Mixed",
+      "Vegetable",
+      "Sabzi",
+      "Soup",
+      "Grilled",
+      "Paneer",
+      "Roasted",
+      "Chana"
+    ],
+    "aiExplanation": "This 7-day plan is structured specifically for a 20-year-old Male with Sedentary activity. We have targeted a daily intake of 1781 kcal with high fiber, lean proteins, and complex carbohydrates to improve your insulin sensitivity and support steady energy throughout the day.",
+    "groceryChecked": [],
+    "createdAt": "2026-06-17T18:22:44.745Z",
+    "updatedAt": "2026-06-17T18:22:44.745Z",
+    "id": "496z4i6ra5x"
+  },
+  "fzdbbtexg3": {
+    "userId": "fzdbbtexg3",
+    "dietType": "Indian-Non-Vegetarian",
+    "calorieTarget": 2089,
+    "waterRecommendationLiters": 2.1,
+    "schedule": [
+      {
+        "day": "Monday",
+        "breakfast": {
+          "name": "Egg white omelet (3 whites) with whole wheat toast",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 421,
+          "carbs": 32,
+          "protein": 36,
+          "fat": 8,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Brown rice (1 cup), Chicken curry (skinless, 150g), Salad",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 921,
+          "carbs": 92,
+          "protein": 64,
+          "fat": 24,
+          "time": "01:30 PM",
+          "glycemicImpact": "Medium",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Grilled chicken breast (150g), Steamed broccoli & carrots",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 561,
+          "carbs": 24,
+          "protein": 68,
+          "fat": 12,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "1 boiled egg white & green tea",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 120,
+          "carbs": 2,
+          "protein": 12,
+          "fat": 0,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 2023
+      },
+      {
+        "day": "Tuesday",
+        "breakfast": {
+          "name": "Chicken Keema Paratha (1, low oil)",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 561,
+          "carbs": 48,
+          "protein": 36,
+          "fat": 16,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Whole wheat chapati (2), Fish curry (non-fried), Spinach salad",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 881,
+          "carbs": 76,
+          "protein": 60,
+          "fat": 24,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Baked salmon (150g), Asparagus spears, Cucumber salad",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 621,
+          "carbs": 12,
+          "protein": 64,
+          "fat": 28,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Almonds (10) and Walnuts (4)",
+          "imageUrl": "https://images.unsplash.com/photo-1596560548464-f010689b7f4f?w=400&q=80",
+          "calories": 260,
+          "carbs": 8,
+          "protein": 6,
+          "fat": 24,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 2324
+      },
+      {
+        "day": "Wednesday",
+        "breakfast": {
+          "name": "Boiled eggs (2) with raw cucumber & carrot slices",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 341,
+          "carbs": 8,
+          "protein": 26,
+          "fat": 20,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Quinoa pulav with chicken cubes & salad",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 861,
+          "carbs": 84,
+          "protein": 56,
+          "fat": 18,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Chicken soup with mixed vegetables & 1 Roti",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 601,
+          "carbs": 52,
+          "protein": 48,
+          "fat": 16,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Sprouted chickpeas salad",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 200,
+          "carbs": 28,
+          "protein": 10,
+          "fat": 2,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 2003
+      },
+      {
+        "day": "Thursday",
+        "breakfast": {
+          "name": "Sprouted Moong Salad with chopped chicken breast",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 541,
+          "carbs": 32,
+          "protein": 48,
+          "fat": 16,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Chapati (2), Dal fry, Egg bhurji (2 eggs)",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 901,
+          "carbs": 88,
+          "protein": 44,
+          "fat": 28,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Tandoori chicken (2 pieces), Mint raita, Green salad",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 641,
+          "carbs": 16,
+          "protein": 72,
+          "fat": 24,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "1 small apple",
+          "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80",
+          "calories": 160,
+          "carbs": 40,
+          "protein": 0,
+          "fat": 0,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 2244
+      },
+      {
+        "day": "Friday",
+        "breakfast": {
+          "name": "Scrambled eggs (1 whole, 2 whites) with spinach",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 381,
+          "carbs": 6,
+          "protein": 32,
+          "fat": 22,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Brown rice (1 cup), Grilled fish (150g), Cabbage stir-fry",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 841,
+          "carbs": 90,
+          "protein": 64,
+          "fat": 16,
+          "time": "01:30 PM",
+          "glycemicImpact": "Medium",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Stir-fry chicken cubes with bell peppers & mushrooms",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 581,
+          "carbs": 20,
+          "protein": 60,
+          "fat": 20,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Buttermilk (1 glass)",
+          "imageUrl": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=400&q=80",
+          "calories": 120,
+          "carbs": 8,
+          "protein": 4,
+          "fat": 2,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 1923
+      },
+      {
+        "day": "Saturday",
+        "breakfast": {
+          "name": "Oats porridge with almonds & flax seeds",
+          "imageUrl": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?w=400&q=80",
+          "calories": 441,
+          "carbs": 52,
+          "protein": 16,
+          "fat": 14,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Millets chapati (2), Chicken saag (spinach chicken)",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 901,
+          "carbs": 72,
+          "protein": 60,
+          "fat": 26,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Mutton clear soup (lean cuts), Roasted cauliflower",
+          "imageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+          "calories": 541,
+          "carbs": 16,
+          "protein": 52,
+          "fat": 24,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Roasted pumpkin seeds (2 tbsp)",
+          "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80",
+          "calories": 240,
+          "carbs": 8,
+          "protein": 10,
+          "fat": 20,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 2123
+      },
+      {
+        "day": "Sunday",
+        "breakfast": {
+          "name": "Paneer & egg bhurji with 1 slice multi-grain bread",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 521,
+          "carbs": 28,
+          "protein": 40,
+          "fat": 20,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Multi-grain chapati (2), Masoor dal, Egg white curry",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 821,
+          "carbs": 96,
+          "protein": 48,
+          "fat": 18,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Egg drop vegetable soup, Grilled Paneer (80g)",
+          "imageUrl": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=400&q=80",
+          "calories": 581,
+          "carbs": 20,
+          "protein": 40,
+          "fat": 32,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Cucumber slices with salt & pepper",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 60,
+          "carbs": 8,
+          "protein": 2,
+          "fat": 0,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 1983
+      }
+    ],
+    "groceryList": [
+      "Egg",
+      "White",
+      "Omelet",
+      "Whites",
+      "Whole",
+      "Wheat",
+      "Toast",
+      "Brown",
+      "Rice",
+      "Chicken",
+      "Curry",
+      "Skinless",
+      "Salad",
+      "Grilled",
+      "Breast"
+    ],
+    "aiExplanation": "This 7-day plan is structured specifically for a 25-year-old Female with Very Active activity. Considering your latest blood sugar was 105 mg/dL (fasting), this diet restricts high glycemic index items to prevent blood glucose spikes. We have targeted a daily intake of 2089 kcal with high fiber, lean proteins, and complex carbohydrates to improve your insulin sensitivity and support steady energy throughout the day.",
+    "groceryChecked": [],
+    "createdAt": "2026-06-18T08:37:34.617Z",
+    "updatedAt": "2026-06-18T08:47:10.962Z",
+    "id": "fzdbbtexg3"
+  },
+  "w1f9mxb6tm": {
+    "userId": "w1f9mxb6tm",
+    "dietType": "Indian-Vegetarian",
+    "calorieTarget": 1434,
+    "waterRecommendationLiters": 2,
+    "schedule": [
+      {
+        "day": "Monday",
+        "breakfast": {
+          "name": "Oats Upma with veggies",
+          "imageUrl": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?w=400&q=80",
+          "calories": 342,
+          "carbs": 48,
+          "protein": 11,
+          "fat": 7,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Brown rice (1 cup), Dal tadka, Mixed vegetable sabzi",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80",
+          "calories": 574,
+          "carbs": 89,
+          "protein": 19,
+          "fat": 11,
+          "time": "01:30 PM",
+          "glycemicImpact": "Medium",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Mixed vegetable soup, Grilled Paneer (100g)",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-e234a49e63e2?w=400&q=80",
+          "calories": 410,
+          "carbs": 14,
+          "protein": 25,
+          "fat": 22,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Roasted chana (handful)",
+          "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80",
+          "calories": 137,
+          "carbs": 21,
+          "protein": 8,
+          "fat": 3,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 1462
+      },
+      {
+        "day": "Tuesday",
+        "breakfast": {
+          "name": "Moong Dal Chilla (2) with mint chutney",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-e234a49e63e2?w=400&q=80",
+          "calories": 301,
+          "carbs": 38,
+          "protein": 16,
+          "fat": 5,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Whole wheat chapati (2), Palak paneer, Cucumber salad",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 615,
+          "carbs": 55,
+          "protein": 27,
+          "fat": 21,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Soya chunks curry, Broccoli stir-fry",
+          "imageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+          "calories": 383,
+          "carbs": 21,
+          "protein": 30,
+          "fat": 11,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Walnuts & Almonds (10 total)",
+          "imageUrl": "https://images.unsplash.com/photo-1596560548464-f010689b7f4f?w=400&q=80",
+          "calories": 164,
+          "carbs": 4,
+          "protein": 4,
+          "fat": 15,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 1462
+      },
+      {
+        "day": "Wednesday",
+        "breakfast": {
+          "name": "Vegetable Dalia",
+          "imageUrl": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?w=400&q=80",
+          "calories": 287,
+          "carbs": 44,
+          "protein": 10,
+          "fat": 4,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Quinoa pulav with chickpeas & curd",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80",
+          "calories": 547,
+          "carbs": 75,
+          "protein": 21,
+          "fat": 10,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Chapati (1), Tofu bhurji, Green salad",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 424,
+          "carbs": 33,
+          "protein": 25,
+          "fat": 14,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Buttermilk (1 glass) with chia seeds",
+          "imageUrl": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=400&q=80",
+          "calories": 109,
+          "carbs": 7,
+          "protein": 4,
+          "fat": 3,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 1367
+      },
+      {
+        "day": "Thursday",
+        "breakfast": {
+          "name": "Sprouted Moong Salad with paneer",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 355,
+          "carbs": 25,
+          "protein": 22,
+          "fat": 14,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Chapati (2), Bhindi Masala, Boondi raita (low-fat)",
+          "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80",
+          "calories": 588,
+          "carbs": 66,
+          "protein": 16,
+          "fat": 16,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Clear vegetable broth, Moong dal khichdi (dry, 1 cup)",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80",
+          "calories": 396,
+          "carbs": 61,
+          "protein": 14,
+          "fat": 5,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Cucumber slices with hummus",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 150,
+          "carbs": 11,
+          "protein": 5,
+          "fat": 8,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 1490
+      },
+      {
+        "day": "Friday",
+        "breakfast": {
+          "name": "Ragi Roti (1) with curd",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-e234a49e63e2?w=400&q=80",
+          "calories": 328,
+          "carbs": 49,
+          "protein": 8,
+          "fat": 7,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Brown rice (1 cup), Rajma curry, Stir-fry beans",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80",
+          "calories": 560,
+          "carbs": 85,
+          "protein": 22,
+          "fat": 8,
+          "time": "01:30 PM",
+          "glycemicImpact": "Medium",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Grilled mushroom and paneer salad with lime dressing",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 437,
+          "carbs": 11,
+          "protein": 26,
+          "fat": 25,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Sprouted salad (half cup)",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 123,
+          "carbs": 16,
+          "protein": 7,
+          "fat": 1,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 1449
+      },
+      {
+        "day": "Saturday",
+        "breakfast": {
+          "name": "Idli (2) with sambar (no potatoes)",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-e234a49e63e2?w=400&q=80",
+          "calories": 273,
+          "carbs": 52,
+          "protein": 8,
+          "fat": 3,
+          "time": "08:00 AM",
+          "glycemicImpact": "Medium",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Millets roti (2), Baingan bharta, Dal fry",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-e234a49e63e2?w=400&q=80",
+          "calories": 601,
+          "carbs": 68,
+          "protein": 20,
+          "fat": 14,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Methi thepla (2) with roasted flaxseed curd",
+          "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80",
+          "calories": 451,
+          "carbs": 52,
+          "protein": 12,
+          "fat": 14,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Green tea & 2 digestive biscuits",
+          "imageUrl": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=400&q=80",
+          "calories": 130,
+          "carbs": 19,
+          "protein": 3,
+          "fat": 4,
+          "time": "05:00 PM",
+          "glycemicImpact": "Medium",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 1455
+      },
+      {
+        "day": "Sunday",
+        "breakfast": {
+          "name": "Besan Chilla (2) with low-fat curd",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-e234a49e63e2?w=400&q=80",
+          "calories": 314,
+          "carbs": 35,
+          "protein": 15,
+          "fat": 7,
+          "time": "08:00 AM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "A perfect high-fiber breakfast option that ensures gradual sugar absorption and prevents morning spikes."
+        },
+        "lunch": {
+          "name": "Multi-grain chapati (2), Lauki chana dal, Tomato onion salad",
+          "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+          "calories": 519,
+          "carbs": 61,
+          "protein": 18,
+          "fat": 10,
+          "time": "01:30 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Balanced blend of complex carbs and proteins to support midday metabolism and insulin sensitivity."
+        },
+        "dinner": {
+          "name": "Stir-fry bell peppers, beans, paneer & cabbage soup",
+          "imageUrl": "https://images.unsplash.com/photo-1546069901-e234a49e63e2?w=400&q=80",
+          "calories": 369,
+          "carbs": 16,
+          "protein": 22,
+          "fat": 19,
+          "time": "08:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Light, fiber-rich dinner that prevents nocturnal glucose fluctuations and supports restful sleep."
+        },
+        "snacks": {
+          "name": "Roasted makhana (1 cup)",
+          "imageUrl": "https://images.unsplash.com/photo-1596560548464-f010689b7f4f?w=400&q=80",
+          "calories": 150,
+          "carbs": 25,
+          "protein": 4,
+          "fat": 3,
+          "time": "05:00 PM",
+          "glycemicImpact": "Low",
+          "whyRecommended": "Low glycemic index snack option to curb hunger without causing a blood glucose spike."
+        },
+        "totalCalories": 1353
+      }
+    ],
+    "groceryList": [
+      "Oats",
+      "Upma",
+      "Veggies",
+      "Brown",
+      "Rice",
+      "Dal",
+      "Tadka",
+      "Mixed",
+      "Vegetable",
+      "Sabzi",
+      "Soup",
+      "Grilled",
+      "Paneer",
+      "Roasted",
+      "Chana"
+    ],
+    "aiExplanation": "This 7-day plan is structured specifically for a 25-year-old Female with Sedentary activity. We have targeted a daily intake of 1434 kcal with high fiber, lean proteins, and complex carbohydrates to improve your insulin sensitivity and support steady energy throughout the day.",
+    "groceryChecked": [],
+    "createdAt": "2026-06-19T03:27:29.447Z",
+    "updatedAt": "2026-06-19T03:27:29.447Z",
+    "id": "w1f9mxb6tm"
+  }
+}

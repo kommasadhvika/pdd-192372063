@@ -1,0 +1,723 @@
+{
+  "ldortodgyw": {
+    "id": "ldortodgyw",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "hi",
+    "createdAt": "2026-06-18T08:32:19.815Z"
+  },
+  "d7fl94x0q8s": {
+    "id": "d7fl94x0q8s",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "hello",
+    "createdAt": "2026-06-18T08:39:51.722Z"
+  },
+  "qy01dq3m6i": {
+    "id": "qy01dq3m6i",
+    "userId": "fzdbbtexg3",
+    "sender": "assistant",
+    "message": "Hello komma sadhvika! I am your DiaPredict AI Advisor. How can I help you manage your diabetes today? I have reviewed your profile and see you are managing Indian-Non-Vegetarian. Let me know if you want to discuss your diet, workouts, or sugar levels!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-18T08:39:51.731Z"
+  },
+  "qykckqkdp5l": {
+    "id": "qykckqkdp5l",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "nice to meet you",
+    "createdAt": "2026-06-18T08:42:03.249Z"
+  },
+  "t4rl68jys9": {
+    "id": "t4rl68jys9",
+    "userId": "fzdbbtexg3",
+    "sender": "assistant",
+    "message": "I have received your message: \"nice to meet you\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-18T08:42:03.254Z"
+  },
+  "981d6r59otj": {
+    "id": "981d6r59otj",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "what is my current blodd sugar",
+    "createdAt": "2026-06-18T08:42:13.163Z"
+  },
+  "bw75vpugqid": {
+    "id": "bw75vpugqid",
+    "userId": "fzdbbtexg3",
+    "sender": "assistant",
+    "message": "Your latest blood sugar reading was **105 mg/dL** (fasting), classified as **PREDIABETIC** (Risk: Medium).\n\n⚠️ **Note:** Your reading is in the Prediabetic range. To keep it stable:\n- Increase dietary fiber (leafy greens, chia seeds, oats).\n- Maintain 30 minutes of daily moderate activity.\n- Try to keep consistent spacing between your meals.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-18T08:42:13.166Z"
+  },
+  "qb5y2xsz0g8": {
+    "id": "qb5y2xsz0g8",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "can i eat a pizza",
+    "createdAt": "2026-06-18T08:45:35.890Z"
+  },
+  "ktsdh7faxj": {
+    "id": "ktsdh7faxj",
+    "userId": "fzdbbtexg3",
+    "sender": "assistant",
+    "message": "For glycemic control, focus on **Low Glycemic Index (GI)** foods. Here is my dietary advice for you:\n\n1. **Complex Carbohydrates:** Choose whole grains like Quinoa, Oats, Millets, and Brown Rice instead of white rice or refined flour.\n2. **Proteins & Healthy Fats:** Incorporate lean proteins (Tofu, Paneer, Lentils, Fish) and healthy fats (Almonds, Walnuts, Chia seeds) to slow glucose absorption.\n3. **Fibers:** Half of your plate should consist of leafy green vegetables, broccoli, or cucumber salads.\n\nYour current profile indicates a target calorie intake of approximately **1890 kcal**. You can view your structured meals on the **Diet Plan** tab!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-18T08:45:35.893Z"
+  },
+  "3990mre2cja": {
+    "id": "3990mre2cja",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "calories",
+    "createdAt": "2026-06-18T08:45:49.714Z"
+  },
+  "g3voeyx8609": {
+    "id": "g3voeyx8609",
+    "userId": "fzdbbtexg3",
+    "sender": "assistant",
+    "message": "I have received your message: \"calories\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-18T08:45:49.722Z"
+  },
+  "w9npbvdlmkh": {
+    "id": "w9npbvdlmkh",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "hi",
+    "createdAt": "2026-06-18T08:46:03.628Z"
+  },
+  "vz7mg78ku": {
+    "id": "vz7mg78ku",
+    "userId": "fzdbbtexg3",
+    "sender": "assistant",
+    "message": "Hello komma sadhvika! I am your DiaPredict AI Advisor. How can I help you manage your diabetes today? I have reviewed your profile and see you are managing Indian-Non-Vegetarian. Let me know if you want to discuss your diet, workouts, or sugar levels!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-18T08:46:03.636Z"
+  },
+  "exlwishijv9": {
+    "id": "exlwishijv9",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "wt is my diet today",
+    "createdAt": "2026-06-18T08:46:21.066Z"
+  },
+  "j39j07clnwe": {
+    "id": "j39j07clnwe",
+    "userId": "fzdbbtexg3",
+    "sender": "assistant",
+    "message": "For glycemic control, focus on **Low Glycemic Index (GI)** foods. Here is my dietary advice for you:\n\n1. **Complex Carbohydrates:** Choose whole grains like Quinoa, Oats, Millets, and Brown Rice instead of white rice or refined flour.\n2. **Proteins & Healthy Fats:** Incorporate lean proteins (Tofu, Paneer, Lentils, Fish) and healthy fats (Almonds, Walnuts, Chia seeds) to slow glucose absorption.\n3. **Fibers:** Half of your plate should consist of leafy green vegetables, broccoli, or cucumber salads.\n\nYour current profile indicates a target calorie intake of approximately **1890 kcal**. You can view your structured meals on the **Diet Plan** tab!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-18T08:46:21.073Z"
+  },
+  "qcdvjsc393l": {
+    "id": "qcdvjsc393l",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "will it maintain my sugar level",
+    "createdAt": "2026-06-18T08:46:34.569Z"
+  },
+  "3gm9zj6czy2": {
+    "id": "3gm9zj6czy2",
+    "userId": "fzdbbtexg3",
+    "sender": "assistant",
+    "message": "Your latest blood sugar reading was **105 mg/dL** (fasting), classified as **PREDIABETIC** (Risk: Medium).\n\n⚠️ **Note:** Your reading is in the Prediabetic range. To keep it stable:\n- Increase dietary fiber (leafy greens, chia seeds, oats).\n- Maintain 30 minutes of daily moderate activity.\n- Try to keep consistent spacing between your meals.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-18T08:46:34.576Z"
+  },
+  "qpzckv51tbp": {
+    "id": "qpzckv51tbp",
+    "userId": "fzdbbtexg3",
+    "sender": "user",
+    "message": "ok",
+    "createdAt": "2026-06-18T08:46:41.824Z"
+  },
+  "gfvfx7mwq2t": {
+    "id": "gfvfx7mwq2t",
+    "userId": "fzdbbtexg3",
+    "sender": "assistant",
+    "message": "I have received your message: \"ok\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-18T08:46:41.830Z"
+  },
+  "05u6bf1ab2jn": {
+    "id": "05u6bf1ab2jn",
+    "userId": "w1f9mxb6tm",
+    "sender": "user",
+    "message": "hi",
+    "createdAt": "2026-06-19T03:28:10.033Z"
+  },
+  "6i6oc21yie5": {
+    "id": "6i6oc21yie5",
+    "userId": "w1f9mxb6tm",
+    "sender": "assistant",
+    "message": "Hello komma! I am your DiaPredict AI Advisor. How can I help you manage your diabetes today? I have reviewed your profile and see you are managing Indian-Vegetarian. Let me know if you want to discuss your diet, workouts, or sugar levels!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T03:28:10.039Z"
+  },
+  "io3qjsm554": {
+    "id": "io3qjsm554",
+    "userId": "aej69ysd5vb",
+    "sender": "user",
+    "message": "Is oatmeal healthy for Type 2 diabetes patients?",
+    "createdAt": "2026-06-19T07:04:43.158Z"
+  },
+  "l69v7nuyx4k": {
+    "id": "l69v7nuyx4k",
+    "userId": "aej69ysd5vb",
+    "sender": "assistant",
+    "message": "For glycemic control, focus on **Low Glycemic Index (GI)** foods. Here is my dietary advice for you:\n\n1. **Complex Carbohydrates:** Choose whole grains like Quinoa, Oats, Millets, and Brown Rice instead of white rice or refined flour.\n2. **Proteins & Healthy Fats:** Incorporate lean proteins (Tofu, Paneer, Lentils, Fish) and healthy fats (Almonds, Walnuts, Chia seeds) to slow glucose absorption.\n3. **Fibers:** Half of your plate should consist of leafy green vegetables, broccoli, or cucumber salads.\n\nYour current profile indicates a target calorie intake of approximately **2300 kcal**. You can view your structured meals on the **Diet Plan** tab!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:04:43.165Z"
+  },
+  "tummfpsreha": {
+    "id": "tummfpsreha",
+    "userId": "uqbrz0p9ser",
+    "sender": "user",
+    "message": "Is oatmeal healthy for Type 2 diabetes patients?",
+    "createdAt": "2026-06-19T07:07:34.436Z"
+  },
+  "igp1wz3i4k8": {
+    "id": "igp1wz3i4k8",
+    "userId": "uqbrz0p9ser",
+    "sender": "assistant",
+    "message": "For glycemic control, focus on **Low Glycemic Index (GI)** foods. Here is my dietary advice for you:\n\n1. **Complex Carbohydrates:** Choose whole grains like Quinoa, Oats, Millets, and Brown Rice instead of white rice or refined flour.\n2. **Proteins & Healthy Fats:** Incorporate lean proteins (Tofu, Paneer, Lentils, Fish) and healthy fats (Almonds, Walnuts, Chia seeds) to slow glucose absorption.\n3. **Fibers:** Half of your plate should consist of leafy green vegetables, broccoli, or cucumber salads.\n\nYour current profile indicates a target calorie intake of approximately **2300 kcal**. You can view your structured meals on the **Diet Plan** tab!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:07:34.441Z"
+  },
+  "oij5kng9zsg": {
+    "id": "oij5kng9zsg",
+    "userId": "4gnkp8v6z6g",
+    "sender": "user",
+    "message": "Is oatmeal healthy for Type 2 diabetes patients?",
+    "createdAt": "2026-06-19T07:08:35.615Z"
+  },
+  "olnazbwo27": {
+    "id": "olnazbwo27",
+    "userId": "4gnkp8v6z6g",
+    "sender": "assistant",
+    "message": "For glycemic control, focus on **Low Glycemic Index (GI)** foods. Here is my dietary advice for you:\n\n1. **Complex Carbohydrates:** Choose whole grains like Quinoa, Oats, Millets, and Brown Rice instead of white rice or refined flour.\n2. **Proteins & Healthy Fats:** Incorporate lean proteins (Tofu, Paneer, Lentils, Fish) and healthy fats (Almonds, Walnuts, Chia seeds) to slow glucose absorption.\n3. **Fibers:** Half of your plate should consist of leafy green vegetables, broccoli, or cucumber salads.\n\nYour current profile indicates a target calorie intake of approximately **2300 kcal**. You can view your structured meals on the **Diet Plan** tab!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:08:35.625Z"
+  },
+  "dip40imm9mh": {
+    "id": "dip40imm9mh",
+    "userId": "7mf7ncm7ku5",
+    "sender": "user",
+    "message": "Is oatmeal healthy for Type 2 diabetes patients?",
+    "createdAt": "2026-06-19T07:09:30.407Z"
+  },
+  "f6ot7ok4sjk": {
+    "id": "f6ot7ok4sjk",
+    "userId": "7mf7ncm7ku5",
+    "sender": "assistant",
+    "message": "For glycemic control, focus on **Low Glycemic Index (GI)** foods. Here is my dietary advice for you:\n\n1. **Complex Carbohydrates:** Choose whole grains like Quinoa, Oats, Millets, and Brown Rice instead of white rice or refined flour.\n2. **Proteins & Healthy Fats:** Incorporate lean proteins (Tofu, Paneer, Lentils, Fish) and healthy fats (Almonds, Walnuts, Chia seeds) to slow glucose absorption.\n3. **Fibers:** Half of your plate should consist of leafy green vegetables, broccoli, or cucumber salads.\n\nYour current profile indicates a target calorie intake of approximately **2300 kcal**. You can view your structured meals on the **Diet Plan** tab!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:09:30.416Z"
+  },
+  "me0zem3wej": {
+    "id": "me0zem3wej",
+    "userId": "z2fhf39ea",
+    "sender": "user",
+    "message": "Is oatmeal healthy for Type 2 diabetes patients?",
+    "createdAt": "2026-06-19T07:19:21.524Z"
+  },
+  "e4khcsp7co": {
+    "id": "e4khcsp7co",
+    "userId": "z2fhf39ea",
+    "sender": "assistant",
+    "message": "For glycemic control, focus on **Low Glycemic Index (GI)** foods. Here is my dietary advice for you:\n\n1. **Complex Carbohydrates:** Choose whole grains like Quinoa, Oats, Millets, and Brown Rice instead of white rice or refined flour.\n2. **Proteins & Healthy Fats:** Incorporate lean proteins (Tofu, Paneer, Lentils, Fish) and healthy fats (Almonds, Walnuts, Chia seeds) to slow glucose absorption.\n3. **Fibers:** Half of your plate should consist of leafy green vegetables, broccoli, or cucumber salads.\n\nYour current profile indicates a target calorie intake of approximately **2300 kcal**. You can view your structured meals on the **Diet Plan** tab!\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:19:21.530Z"
+  },
+  "84n6uoeugde": {
+    "id": "84n6uoeugde",
+    "userId": "ij65tfowlyj",
+    "sender": "user",
+    "message": "Question 1: Is item 1 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:31:40.873Z"
+  },
+  "6zcg8liempt": {
+    "id": "6zcg8liempt",
+    "userId": "ij65tfowlyj",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 1: Is item 1 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:31:40.875Z"
+  },
+  "cfib75faade": {
+    "id": "cfib75faade",
+    "userId": "ij65tfowlyj",
+    "sender": "user",
+    "message": "Question 2: Is item 2 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:31:41.668Z"
+  },
+  "pl7sxv7rxon": {
+    "id": "pl7sxv7rxon",
+    "userId": "ij65tfowlyj",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 2: Is item 2 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:31:41.670Z"
+  },
+  "qrztd44fv3": {
+    "id": "qrztd44fv3",
+    "userId": "ij65tfowlyj",
+    "sender": "user",
+    "message": "Question 3: Is item 3 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:31:42.223Z"
+  },
+  "z5qj5hlc0jl": {
+    "id": "z5qj5hlc0jl",
+    "userId": "ij65tfowlyj",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 3: Is item 3 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:31:42.224Z"
+  },
+  "zglusonr47i": {
+    "id": "zglusonr47i",
+    "userId": "ij65tfowlyj",
+    "sender": "user",
+    "message": "Question 4: Is item 4 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:31:42.987Z"
+  },
+  "9pctpsio8u9": {
+    "id": "9pctpsio8u9",
+    "userId": "ij65tfowlyj",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 4: Is item 4 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:31:42.989Z"
+  },
+  "jawueslhd68": {
+    "id": "jawueslhd68",
+    "userId": "ij65tfowlyj",
+    "sender": "user",
+    "message": "Question 5: Is item 5 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:31:43.854Z"
+  },
+  "gkv8eipve2": {
+    "id": "gkv8eipve2",
+    "userId": "ij65tfowlyj",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 5: Is item 5 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:31:43.857Z"
+  },
+  "m363lj3pego": {
+    "id": "m363lj3pego",
+    "userId": "ij65tfowlyj",
+    "sender": "user",
+    "message": "Question 6: Is item 6 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:31:44.494Z"
+  },
+  "gvpzfqypx27": {
+    "id": "gvpzfqypx27",
+    "userId": "ij65tfowlyj",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 6: Is item 6 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:31:44.498Z"
+  },
+  "i0fviuj88f": {
+    "id": "i0fviuj88f",
+    "userId": "ij65tfowlyj",
+    "sender": "user",
+    "message": "Question 7: Is item 7 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:31:45.204Z"
+  },
+  "r7z6azo4gjc": {
+    "id": "r7z6azo4gjc",
+    "userId": "ij65tfowlyj",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 7: Is item 7 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:31:45.206Z"
+  },
+  "823ncdhee37": {
+    "id": "823ncdhee37",
+    "userId": "ij65tfowlyj",
+    "sender": "user",
+    "message": "Question 8: Is item 8 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:31:46.001Z"
+  },
+  "gre2pf76ii9": {
+    "id": "gre2pf76ii9",
+    "userId": "ij65tfowlyj",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 8: Is item 8 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:31:46.004Z"
+  },
+  "c4m1mlfmwpq": {
+    "id": "c4m1mlfmwpq",
+    "userId": "ij65tfowlyj",
+    "sender": "user",
+    "message": "Question 9: Is item 9 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:31:46.758Z"
+  },
+  "xfprv61kxzm": {
+    "id": "xfprv61kxzm",
+    "userId": "ij65tfowlyj",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 9: Is item 9 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:31:46.761Z"
+  },
+  "cbzsrvamhc": {
+    "id": "cbzsrvamhc",
+    "userId": "8pwkvjbvjej",
+    "sender": "user",
+    "message": "Question 1: Is item 1 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:36:11.504Z"
+  },
+  "qfubv0w2d7r": {
+    "id": "qfubv0w2d7r",
+    "userId": "8pwkvjbvjej",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 1: Is item 1 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:36:11.508Z"
+  },
+  "snmxzymqzws": {
+    "id": "snmxzymqzws",
+    "userId": "8pwkvjbvjej",
+    "sender": "user",
+    "message": "Question 2: Is item 2 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:36:12.315Z"
+  },
+  "q5mjrgiendh": {
+    "id": "q5mjrgiendh",
+    "userId": "8pwkvjbvjej",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 2: Is item 2 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:36:12.317Z"
+  },
+  "5ig3qs9qgwg": {
+    "id": "5ig3qs9qgwg",
+    "userId": "8pwkvjbvjej",
+    "sender": "user",
+    "message": "Question 3: Is item 3 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:36:13.181Z"
+  },
+  "zxr6lg0iptc": {
+    "id": "zxr6lg0iptc",
+    "userId": "8pwkvjbvjej",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 3: Is item 3 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:36:13.183Z"
+  },
+  "4t3q852zc7g": {
+    "id": "4t3q852zc7g",
+    "userId": "8pwkvjbvjej",
+    "sender": "user",
+    "message": "Question 4: Is item 4 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:36:13.945Z"
+  },
+  "7js5gar8amv": {
+    "id": "7js5gar8amv",
+    "userId": "8pwkvjbvjej",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 4: Is item 4 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:36:13.948Z"
+  },
+  "yny0qdd5au": {
+    "id": "yny0qdd5au",
+    "userId": "8pwkvjbvjej",
+    "sender": "user",
+    "message": "Question 5: Is item 5 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:36:14.696Z"
+  },
+  "bsak44psc6i": {
+    "id": "bsak44psc6i",
+    "userId": "8pwkvjbvjej",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 5: Is item 5 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:36:14.698Z"
+  },
+  "4y5i46khete": {
+    "id": "4y5i46khete",
+    "userId": "8pwkvjbvjej",
+    "sender": "user",
+    "message": "Question 6: Is item 6 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:36:15.463Z"
+  },
+  "wgv7vt77059": {
+    "id": "wgv7vt77059",
+    "userId": "8pwkvjbvjej",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 6: Is item 6 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:36:15.465Z"
+  },
+  "67b9elbsb6j": {
+    "id": "67b9elbsb6j",
+    "userId": "8pwkvjbvjej",
+    "sender": "user",
+    "message": "Question 7: Is item 7 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:36:16.309Z"
+  },
+  "4eudjx65cp4": {
+    "id": "4eudjx65cp4",
+    "userId": "8pwkvjbvjej",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 7: Is item 7 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:36:16.312Z"
+  },
+  "5j3qunxc9ro": {
+    "id": "5j3qunxc9ro",
+    "userId": "8pwkvjbvjej",
+    "sender": "user",
+    "message": "Question 8: Is item 8 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:36:16.975Z"
+  },
+  "dwrsv3sryej": {
+    "id": "dwrsv3sryej",
+    "userId": "8pwkvjbvjej",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 8: Is item 8 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:36:16.978Z"
+  },
+  "ck3p2nts03q": {
+    "id": "ck3p2nts03q",
+    "userId": "8pwkvjbvjej",
+    "sender": "user",
+    "message": "Question 9: Is item 9 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:36:17.772Z"
+  },
+  "6yhe5a9579m": {
+    "id": "6yhe5a9579m",
+    "userId": "8pwkvjbvjej",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 9: Is item 9 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:36:17.776Z"
+  },
+  "q8zqjjkn9fs": {
+    "id": "q8zqjjkn9fs",
+    "userId": "jpqt9na6hdb",
+    "sender": "user",
+    "message": "Question 1: Is item 1 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:42:00.702Z"
+  },
+  "gahoxtf6hof": {
+    "id": "gahoxtf6hof",
+    "userId": "jpqt9na6hdb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 1: Is item 1 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:42:00.704Z"
+  },
+  "shng85zu2pp": {
+    "id": "shng85zu2pp",
+    "userId": "jpqt9na6hdb",
+    "sender": "user",
+    "message": "Question 2: Is item 2 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:42:01.466Z"
+  },
+  "8i6z9y7132d": {
+    "id": "8i6z9y7132d",
+    "userId": "jpqt9na6hdb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 2: Is item 2 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:42:01.469Z"
+  },
+  "dop3phrducn": {
+    "id": "dop3phrducn",
+    "userId": "jpqt9na6hdb",
+    "sender": "user",
+    "message": "Question 3: Is item 3 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:42:02.115Z"
+  },
+  "v8cs7cq59y": {
+    "id": "v8cs7cq59y",
+    "userId": "jpqt9na6hdb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 3: Is item 3 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:42:02.119Z"
+  },
+  "2e0v2wxmuiu": {
+    "id": "2e0v2wxmuiu",
+    "userId": "jpqt9na6hdb",
+    "sender": "user",
+    "message": "Question 4: Is item 4 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:42:02.979Z"
+  },
+  "xg2j1ubp3pc": {
+    "id": "xg2j1ubp3pc",
+    "userId": "jpqt9na6hdb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 4: Is item 4 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:42:02.982Z"
+  },
+  "uf5d8mt6gtr": {
+    "id": "uf5d8mt6gtr",
+    "userId": "jpqt9na6hdb",
+    "sender": "user",
+    "message": "Question 5: Is item 5 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:42:03.770Z"
+  },
+  "btoqbc6t8bm": {
+    "id": "btoqbc6t8bm",
+    "userId": "jpqt9na6hdb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 5: Is item 5 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:42:03.773Z"
+  },
+  "givdjad3ai9": {
+    "id": "givdjad3ai9",
+    "userId": "jpqt9na6hdb",
+    "sender": "user",
+    "message": "Question 6: Is item 6 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:42:04.326Z"
+  },
+  "umgpwb8hagb": {
+    "id": "umgpwb8hagb",
+    "userId": "jpqt9na6hdb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 6: Is item 6 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:42:04.328Z"
+  },
+  "3jajlxqacwx": {
+    "id": "3jajlxqacwx",
+    "userId": "jpqt9na6hdb",
+    "sender": "user",
+    "message": "Question 7: Is item 7 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:42:05.075Z"
+  },
+  "f72mt2hktyf": {
+    "id": "f72mt2hktyf",
+    "userId": "jpqt9na6hdb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 7: Is item 7 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:42:05.077Z"
+  },
+  "fx5oejncibf": {
+    "id": "fx5oejncibf",
+    "userId": "jpqt9na6hdb",
+    "sender": "user",
+    "message": "Question 8: Is item 8 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:42:05.860Z"
+  },
+  "kqr6nxdkpwc": {
+    "id": "kqr6nxdkpwc",
+    "userId": "jpqt9na6hdb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 8: Is item 8 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:42:05.863Z"
+  },
+  "rhr8dpvqith": {
+    "id": "rhr8dpvqith",
+    "userId": "jpqt9na6hdb",
+    "sender": "user",
+    "message": "Question 9: Is item 9 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:42:06.509Z"
+  },
+  "xmo1tf4fhg": {
+    "id": "xmo1tf4fhg",
+    "userId": "jpqt9na6hdb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 9: Is item 9 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:42:06.511Z"
+  },
+  "d6r0s8d226b": {
+    "id": "d6r0s8d226b",
+    "userId": "cdntat0ijpb",
+    "sender": "user",
+    "message": "Question 1: Is item 1 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:46:56.262Z"
+  },
+  "mtyz1bigbkk": {
+    "id": "mtyz1bigbkk",
+    "userId": "cdntat0ijpb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 1: Is item 1 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:46:56.266Z"
+  },
+  "jtktcim673n": {
+    "id": "jtktcim673n",
+    "userId": "cdntat0ijpb",
+    "sender": "user",
+    "message": "Question 2: Is item 2 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:46:57.171Z"
+  },
+  "edlvhhs1iqc": {
+    "id": "edlvhhs1iqc",
+    "userId": "cdntat0ijpb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 2: Is item 2 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:46:57.174Z"
+  },
+  "3d0aifvhf44": {
+    "id": "3d0aifvhf44",
+    "userId": "cdntat0ijpb",
+    "sender": "user",
+    "message": "Question 3: Is item 3 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:46:57.982Z"
+  },
+  "zxtjxc167k": {
+    "id": "zxtjxc167k",
+    "userId": "cdntat0ijpb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 3: Is item 3 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:46:57.984Z"
+  },
+  "3700p5d20b1": {
+    "id": "3700p5d20b1",
+    "userId": "cdntat0ijpb",
+    "sender": "user",
+    "message": "Question 4: Is item 4 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:46:58.771Z"
+  },
+  "lbcmyhbgrs": {
+    "id": "lbcmyhbgrs",
+    "userId": "cdntat0ijpb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 4: Is item 4 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:46:58.775Z"
+  },
+  "xoa2pka7qy": {
+    "id": "xoa2pka7qy",
+    "userId": "cdntat0ijpb",
+    "sender": "user",
+    "message": "Question 5: Is item 5 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:46:59.667Z"
+  },
+  "ia5y1yxfxdc": {
+    "id": "ia5y1yxfxdc",
+    "userId": "cdntat0ijpb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 5: Is item 5 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:46:59.670Z"
+  },
+  "sddnia0my8": {
+    "id": "sddnia0my8",
+    "userId": "cdntat0ijpb",
+    "sender": "user",
+    "message": "Question 6: Is item 6 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:47:00.490Z"
+  },
+  "p9gy6ymxllj": {
+    "id": "p9gy6ymxllj",
+    "userId": "cdntat0ijpb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 6: Is item 6 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:47:00.493Z"
+  },
+  "8pzdt77dac6": {
+    "id": "8pzdt77dac6",
+    "userId": "cdntat0ijpb",
+    "sender": "user",
+    "message": "Question 7: Is item 7 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:47:01.347Z"
+  },
+  "1q1isgea6vz": {
+    "id": "1q1isgea6vz",
+    "userId": "cdntat0ijpb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 7: Is item 7 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:47:01.351Z"
+  },
+  "gaeg7l6ynn": {
+    "id": "gaeg7l6ynn",
+    "userId": "cdntat0ijpb",
+    "sender": "user",
+    "message": "Question 8: Is item 8 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:47:02.241Z"
+  },
+  "qyfs9msu7zf": {
+    "id": "qyfs9msu7zf",
+    "userId": "cdntat0ijpb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 8: Is item 8 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:47:02.245Z"
+  },
+  "y969ey8vg1j": {
+    "id": "y969ey8vg1j",
+    "userId": "cdntat0ijpb",
+    "sender": "user",
+    "message": "Question 9: Is item 9 glycemic rating healthy for Type 2 diabetes?",
+    "createdAt": "2026-06-19T07:47:03.142Z"
+  },
+  "pavzvdwznff": {
+    "id": "pavzvdwznff",
+    "userId": "cdntat0ijpb",
+    "sender": "assistant",
+    "message": "I have received your message: \"Question 9: Is item 9 glycemic rating healthy for Type 2 diabetes?\". As your DiaPredict AI Advisor, I am here to assist you with diabetes management.\n\nYou can ask me questions about:\n- Your blood sugar log history and glycemic status.\n- Meal guidelines, calorie limits, and grocery choices.\n- Exercise training schedules and how to control spikes.\n- Hydration benefits and daily targets.\n\n*Disclaimer: I am DiaPredict AI, an automated health advisor. My suggestions are informational and do not replace professional medical advice. Please coordinate with your doctor before modifying your care regimen.*",
+    "createdAt": "2026-06-19T07:47:03.149Z"
+  }
+}

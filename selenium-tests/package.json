@@ -1,0 +1,15 @@
+{
+  "name": "ai-diabetes-e2e-tests",
+  "version": "1.0.0",
+  "description": "E2E Selenium Webdriver testing suite with Excel report generation",
+  "main": "run-tests.js",
+  "type": "module",
+  "scripts": {
+    "test": "node run-tests.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0",
+    "selenium-webdriver": "^4.18.1"
+  }
+}
